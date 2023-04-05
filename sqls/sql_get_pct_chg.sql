@@ -1,0 +1,1 @@
+select cast(TRADE_DT as signed) as Date, LEFT(S_INFO_WINDCODE, 6) as Ticker, S_DQ_PCTCHANGE/100 as pct_chg  from wind.ASHAREEODPRICES where TRADE_DT>="{0}" and TRADE_DT<="{1}"

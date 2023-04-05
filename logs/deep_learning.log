@@ -1,0 +1,286 @@
+2023-04-04 21:01:04,852 - deep_learning - INFO - start to get sql data,time = 2023-04-04 21:01:04.852877
+2023-04-04 21:01:56,444 - deep_learning - INFO - start to get sql data
+2023-04-04 21:15:11,722 - deep_learning - INFO - start to get sql data
+2023-04-04 21:26:44,047 - deep_learning - INFO - get wind factor from sql,shape = (1000136, 97)
+2023-04-04 22:12:56,067 - deep_learning - INFO - start to get sql data
+2023-04-04 22:19:27,439 - deep_learning - INFO - get wind factor from sql,shape = (6952512, 97)
+2023-04-04 22:42:18,679 - deep_learning - INFO - get hermes factor from sql,shape = (586709, 426)
+2023-04-04 22:42:53,027 - deep_learning - INFO - get all factors from mysql database,shape = (0, 521)
+2023-04-04 22:46:55,458 - deep_learning - INFO - start to get sql data
+2023-04-04 22:53:23,751 - deep_learning - INFO - get wind factor from sql,shape = (6952512, 97)
+2023-04-04 23:15:56,154 - deep_learning - INFO - get hermes factor from sql,shape = (586709, 426)
+2023-04-04 23:21:17,055 - deep_learning - INFO - start to get sql data
+2023-04-04 23:37:34,059 - deep_learning - INFO - start to get sql data
+2023-04-04 23:39:27,224 - deep_learning - INFO - start to get sql data
+2023-04-04 23:41:32,478 - deep_learning - INFO - start to get sql data
+2023-04-04 23:50:04,590 - deep_learning - INFO - get wind factor from sql,shape = (542253, 97)
+2023-04-05 00:12:33,664 - deep_learning - INFO - get hermes factor from sql,shape = (586709, 426)
+2023-04-05 00:15:07,845 - deep_learning - INFO - get all factors from mysql database,shape = (0, 521)
+2023-04-05 00:15:08,788 - deep_learning - INFO - start to get sql data
+2023-04-05 00:18:38,269 - deep_learning - INFO - start to get sql data
+2023-04-05 00:19:16,687 - deep_learning - INFO - start to get sql data
+2023-04-05 00:20:25,128 - deep_learning - INFO - get wind factor from sql,shape = (10610, 97)
+2023-04-05 00:26:45,565 - deep_learning - INFO - get hermes factor from sql,shape = (11611, 426)
+2023-04-05 00:34:31,051 - deep_learning - INFO - start to get sql data
+2023-04-05 00:36:51,871 - deep_learning - INFO - get wind factor from sql,shape = (542253, 97)
+2023-04-05 00:44:39,952 - deep_learning - INFO - get hermes factor from sql,shape = (586709, 426)
+2023-04-05 00:44:55,386 - deep_learning - INFO - get all factors from mysql database,shape = (542253, 521)
+2023-04-05 00:45:14,873 - deep_learning - INFO - start to get sql data
+2023-04-05 00:47:50,716 - deep_learning - INFO - get wind factor from sql,shape = (569905, 97)
+2023-04-05 00:58:06,113 - deep_learning - INFO - get hermes factor from sql,shape = (587574, 426)
+2023-04-05 00:58:21,731 - deep_learning - INFO - get all factors from mysql database,shape = (569905, 521)
+2023-04-05 00:58:45,616 - deep_learning - INFO - start to get sql data
+2023-04-05 01:01:29,919 - deep_learning - INFO - get wind factor from sql,shape = (601694, 97)
+2023-04-05 01:11:24,375 - deep_learning - INFO - get hermes factor from sql,shape = (620067, 426)
+2023-04-05 01:12:05,459 - deep_learning - INFO - get all factors from mysql database,shape = (601694, 521)
+2023-04-05 01:12:27,485 - deep_learning - INFO - start to get sql data
+2023-04-05 01:15:56,678 - deep_learning - INFO - get wind factor from sql,shape = (638902, 97)
+2023-04-05 01:25:24,491 - deep_learning - INFO - get hermes factor from sql,shape = (665178, 426)
+2023-04-05 01:25:42,723 - deep_learning - INFO - get all factors from mysql database,shape = (638902, 521)
+2023-04-05 01:26:02,316 - deep_learning - INFO - start to get sql data
+2023-04-05 01:29:14,603 - deep_learning - INFO - get wind factor from sql,shape = (676443, 97)
+2023-04-05 01:46:39,165 - deep_learning - INFO - get hermes factor from sql,shape = (704145, 426)
+2023-04-05 01:47:40,444 - deep_learning - INFO - get all factors from mysql database,shape = (676443, 521)
+2023-04-05 01:48:44,958 - deep_learning - INFO - start to get sql data
+2023-04-05 01:53:05,921 - deep_learning - INFO - get wind factor from sql,shape = (753971, 97)
+2023-04-05 02:16:32,443 - deep_learning - INFO - get hermes factor from sql,shape = (799064, 426)
+2023-04-05 02:17:47,177 - deep_learning - INFO - get all factors from mysql database,shape = (753971, 521)
+2023-04-05 02:19:31,761 - deep_learning - INFO - start to get sql data
+2023-04-05 02:23:15,398 - deep_learning - INFO - get wind factor from sql,shape = (828420, 97)
+2023-04-05 02:52:46,037 - deep_learning - INFO - get hermes factor from sql,shape = (856800, 426)
+2023-04-05 02:56:22,162 - deep_learning - INFO - get all factors from mysql database,shape = (828420, 521)
+2023-04-05 02:57:09,404 - deep_learning - INFO - start to get sql data
+2023-04-05 03:02:40,720 - deep_learning - INFO - get wind factor from sql,shape = (849008, 97)
+2023-04-05 03:56:42,875 - deep_learning - INFO - get hermes factor from sql,shape = (890251, 426)
+2023-04-05 04:01:23,423 - deep_learning - INFO - get all factors from mysql database,shape = (849008, 521)
+2023-04-05 04:02:58,921 - deep_learning - INFO - start to get sql data
+2023-04-05 04:07:17,206 - deep_learning - INFO - get wind factor from sql,shape = (882667, 97)
+2023-04-05 05:11:04,278 - deep_learning - INFO - get hermes factor from sql,shape = (951986, 426)
+2023-04-05 05:15:53,890 - deep_learning - INFO - get all factors from mysql database,shape = (882667, 521)
+2023-04-05 05:16:50,541 - deep_learning - INFO - start to get sql data
+2023-04-05 05:27:11,022 - deep_learning - INFO - get wind factor from sql,shape = (983561, 97)
+2023-04-05 07:10:58,231 - deep_learning - INFO - get hermes factor from sql,shape = (1065299, 426)
+2023-04-05 07:19:30,938 - deep_learning - INFO - get all factors from mysql database,shape = (983561, 521)
+2023-04-05 07:22:02,458 - deep_learning - INFO - start to get sql data
+2023-04-05 07:28:02,970 - deep_learning - INFO - get wind factor from sql,shape = (1086828, 97)
+2023-04-05 09:35:39,882 - deep_learning - INFO - get hermes factor from sql,shape = (1174346, 426)
+2023-04-05 09:49:39,921 - deep_learning - INFO - get all factors from mysql database,shape = (1086828, 521)
+2023-04-05 14:44:29,066 - deep_learning - INFO -  success to get factors_2012.parquet
+2023-04-05 14:44:36,538 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-05 14:44:42,914 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-05 14:44:49,309 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-05 14:44:55,171 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-05 14:45:01,870 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-05 14:45:10,967 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-05 14:45:20,077 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-05 14:45:29,649 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-05 14:46:08,055 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-05 14:46:31,539 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-05 14:46:42,237 - deep_learning - INFO -  success to get value_factor_list factor ,shape = (8413652, 24)
+2023-04-05 14:47:45,348 - deep_learning - INFO -  success to get factors_2012.parquet
+2023-04-05 14:47:49,801 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-05 14:47:54,714 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-05 14:48:00,261 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-05 14:48:06,137 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-05 14:48:12,762 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-05 14:48:21,805 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-05 14:48:31,410 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-05 14:48:40,823 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-05 14:48:50,937 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-05 14:49:03,779 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-05 14:49:16,474 - deep_learning - INFO -  success to get value_factor_list factor ,shape = (8413652, 24)
+2023-04-05 15:06:18,920 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-05 15:06:50,918 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-05 15:06:56,367 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-05 15:07:02,898 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-05 15:07:10,309 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-05 15:07:18,780 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-05 15:08:24,855 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-05 15:11:02,100 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-05 15:17:55,447 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-05 15:18:01,296 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-05 15:18:07,815 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-05 15:18:17,044 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-05 15:18:25,041 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-05 15:18:35,036 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-05 15:18:44,606 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-05 15:18:54,121 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-05 15:19:04,561 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-05 15:19:30,905 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-05 15:19:38,840 - deep_learning - INFO -  success to get value_factor_list factor ,shape = (7871399, 24)
+2023-04-05 15:22:40,999 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-05 15:22:45,635 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-05 15:22:51,054 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-05 15:22:56,783 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-05 15:23:03,256 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-05 15:23:12,405 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-05 15:23:22,119 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-05 15:23:31,934 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-05 15:23:42,056 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-05 15:23:55,815 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-05 15:24:06,058 - deep_learning - INFO -  success to get value_factor_list factor ,shape = (7871399, 24)
+2023-04-05 15:24:11,227 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-05 15:24:16,542 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-05 15:24:22,066 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-05 15:24:28,268 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-05 15:24:35,357 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-05 15:24:45,056 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-05 15:24:55,389 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-05 15:25:05,262 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-05 15:25:15,262 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-05 15:25:28,696 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-05 15:25:41,318 - deep_learning - INFO -  success to get growth_factor_list factor ,shape = (7871399, 23)
+2023-04-05 15:25:46,420 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-05 15:25:51,488 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-05 15:25:57,169 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-05 15:26:03,585 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-05 15:26:10,741 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-05 15:26:20,390 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-05 15:26:31,830 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-05 15:26:56,481 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-05 15:27:40,280 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-05 15:28:27,953 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-05 15:29:03,256 - deep_learning - INFO -  success to get financial_factor_list factor ,shape = (7871399, 135)
+2023-04-05 15:29:09,085 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-05 15:29:13,980 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-05 15:29:19,402 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-05 15:29:26,016 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-05 15:29:33,080 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-05 15:29:48,256 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-05 15:30:06,910 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-05 15:30:24,549 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-05 15:30:44,442 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-05 15:31:43,216 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-05 15:31:48,413 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-05 15:31:53,988 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-05 15:32:00,115 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-05 15:32:06,938 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-05 15:32:16,207 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-05 15:32:25,970 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-05 15:32:35,646 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-05 15:32:45,481 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-05 15:33:05,194 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-05 15:33:22,337 - deep_learning - INFO -  success to get value_factor_list factor ,shape = (7871399, 24)
+2023-04-05 15:39:27,420 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-05 15:39:32,037 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-05 15:39:37,054 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-05 15:39:42,520 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-05 15:39:48,757 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-05 15:39:57,489 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-05 15:40:06,788 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-05 15:40:16,045 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-05 15:40:25,515 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-05 15:40:37,035 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-05 15:40:44,296 - deep_learning - INFO -  success to get value_factor_list factor ,shape = (7871399, 24)
+2023-04-05 15:40:48,736 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-05 15:40:53,375 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-05 15:40:58,446 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-05 15:41:03,899 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-05 15:41:10,098 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-05 15:41:18,832 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-05 15:41:28,138 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-05 15:41:37,425 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-05 15:41:47,077 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-05 15:41:57,580 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-05 15:42:06,273 - deep_learning - INFO -  success to get growth_factor_list factor ,shape = (7871399, 23)
+2023-04-05 15:42:10,982 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-05 15:42:15,842 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-05 15:42:21,248 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-05 15:42:27,467 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-05 15:42:34,522 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-05 15:42:44,205 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-05 15:42:54,595 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-05 15:43:05,283 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-05 15:43:18,129 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-05 15:44:10,159 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-05 15:44:44,841 - deep_learning - INFO -  success to get financial_factor_list factor ,shape = (7871399, 135)
+2023-04-05 15:44:52,442 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-05 15:44:58,396 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-05 15:45:05,100 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-05 15:45:12,477 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-05 15:45:21,135 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-05 15:45:33,512 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-05 15:45:50,789 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-05 15:46:26,092 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-05 15:47:02,972 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-05 15:47:15,348 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-05 15:47:30,192 - deep_learning - INFO -  success to get psi_factor_list factor ,shape = (7871399, 20)
+2023-04-05 15:47:35,676 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-05 15:47:40,661 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-05 15:47:46,112 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-05 15:47:53,007 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-05 15:48:00,375 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-05 15:48:10,400 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-05 15:48:20,500 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-05 15:48:30,819 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-05 15:48:42,003 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-05 15:49:29,400 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-05 15:50:05,006 - deep_learning - INFO -  success to get momentum_factor_list factor ,shape = (7871399, 67)
+2023-04-05 15:50:09,850 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-05 15:50:14,616 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-05 15:50:19,866 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-05 15:50:25,542 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-05 15:50:32,335 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-05 15:50:41,321 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-05 15:50:50,965 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-05 15:51:02,422 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-05 15:51:18,591 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-05 15:51:57,715 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-05 15:52:58,763 - deep_learning - INFO -  success to get volatility_factor_list factor ,shape = (7871399, 45)
+2023-04-05 15:53:05,707 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-05 15:53:11,598 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-05 15:53:18,349 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-05 15:53:25,202 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-05 15:53:32,656 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-05 15:53:41,291 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-05 15:53:50,605 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-05 15:54:00,956 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-05 15:54:11,266 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-05 15:54:24,370 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-05 15:54:51,738 - deep_learning - INFO -  success to get turnover_factor_list factor ,shape = (7871399, 13)
+2023-04-05 15:54:56,260 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-05 15:55:01,253 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-05 15:55:07,059 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-05 15:55:13,561 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-05 15:55:20,653 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-05 15:55:30,686 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-05 15:55:41,450 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-05 15:55:51,645 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-05 15:56:04,197 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-05 15:56:44,781 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-05 15:57:56,922 - deep_learning - INFO -  success to get sentiment_factor_list factor ,shape = (7871399, 44)
+2023-04-05 15:58:03,686 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-05 15:58:09,700 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-05 15:58:16,905 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-05 15:58:24,552 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-05 15:58:31,518 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-05 15:58:40,535 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-05 15:58:49,896 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-05 15:59:00,142 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-05 15:59:21,429 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-05 16:01:18,282 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-05 16:02:02,563 - deep_learning - INFO -  success to get technical_factor_list factor ,shape = (7871399, 47)
+2023-04-05 16:02:07,361 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-05 16:04:22,567 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-05 16:10:58,569 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-05 16:11:03,229 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-05 16:11:08,343 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-05 16:11:13,885 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-05 16:11:20,552 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-05 16:11:29,458 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-05 16:11:38,818 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-05 16:11:48,184 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-05 16:11:59,369 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-05 16:12:14,734 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-05 16:12:23,821 - deep_learning - INFO -  success to get expectation_factor_list factor ,shape = (7871399, 48)
+2023-04-05 16:12:28,547 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-05 16:12:33,315 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-05 16:12:38,554 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-05 16:12:44,451 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-05 16:12:50,961 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-05 16:12:59,850 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-05 16:13:09,649 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-05 16:13:19,655 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-05 16:13:29,608 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-05 16:13:45,745 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-05 16:13:58,356 - deep_learning - INFO -  success to get moneyflow_factor_list factor ,shape = (7871399, 53)
