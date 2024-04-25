@@ -1,0 +1,1 @@
+select cast(TRADE_DT as signed) as Date, S_INFO_WINDCODE as Ticker, S_DQ_MV as mkt_cap from wind.ashareeodderivativeindicator where TRADE_DT>="{0}" and TRADE_DT<="{1}";

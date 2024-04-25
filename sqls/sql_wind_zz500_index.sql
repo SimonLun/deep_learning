@@ -1,0 +1,1 @@
+SELECT S_INFO_WINDCODE AS Ticker,TRADE_DT as Date,S_DQ_CLOSE as `close` FROM wind.aindexeodprices WHERE S_INFO_WINDCODE = '000905.SH' AND (TRADE_DT>="{0}" and TRADE_DT<="{1}") ORDER BY TRADE_DT;
