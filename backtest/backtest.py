@@ -1,4 +1,7 @@
-
+from conf.base import logger
+import pandas as pd
+import matplotlib.pyplot as plt
+import numpy as np
 
 class backTestSimple():
 	def __init__(self, stragy=None, tradeSys=tradeSystemSimple(), start_date=None, end_date=None, frequency='1d',
@@ -24,7 +27,7 @@ class backTestSimple():
 		trade_frequency = df_data.index
 		stragy_m.initialize(context)
 		for trade_delta in trade_frequency:
-			log.info('开始新的一轮，时间：{}'.format(trade_delta))
+			logger.info('开始新的一轮，时间：{}'.format(trade_delta))
 			context.current_dt = trade_delta
 			stragy_m.before_trading(context)
 			stragy_m.handle(context)

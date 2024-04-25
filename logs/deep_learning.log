@@ -284,3 +284,1618 @@
 2023-04-05 16:13:29,608 - deep_learning - INFO -  success to get factors_2021.parquet
 2023-04-05 16:13:45,745 - deep_learning - INFO -  success to get factors_2022.parquet
 2023-04-05 16:13:58,356 - deep_learning - INFO -  success to get moneyflow_factor_list factor ,shape = (7871399, 53)
+2023-04-06 15:46:40,968 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-06 15:46:46,206 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-06 18:10:42,346 - deep_learning - INFO - start to get stock price 
+2023-04-06 18:11:38,410 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-06 18:11:43,523 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-06 18:11:49,093 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-06 18:11:55,025 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-06 18:12:02,061 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-06 18:12:12,382 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-06 18:12:23,862 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-06 18:12:33,309 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-06 18:12:43,103 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-06 18:12:57,929 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-06 18:13:05,409 - deep_learning - INFO - success to get value_factor_list factor ,shape = (7871399, 24)
+2023-04-06 18:14:48,634 - deep_learning - INFO - start to get stock price 
+2023-04-06 18:14:58,964 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-06 18:15:03,741 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-06 18:15:08,961 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-06 18:15:14,617 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-06 18:15:21,067 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-06 18:15:29,775 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-06 18:15:39,413 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-06 18:15:48,986 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-06 18:15:58,878 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-06 18:16:11,615 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-06 18:16:43,452 - deep_learning - INFO - success to get value_factor_list factor ,shape = (7871399, 24)
+2023-04-06 20:53:50,974 - deep_learning - INFO - start to get stock price 
+2023-04-06 20:53:55,319 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-06 20:54:00,375 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-06 20:54:05,880 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-06 20:54:11,923 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-06 20:54:18,843 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-06 20:54:27,996 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-06 20:54:37,803 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-06 20:54:50,153 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-06 20:55:00,691 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-06 20:55:13,857 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-06 20:55:31,696 - deep_learning - INFO - success to get value_factor_list factor ,shape = (7871399, 24)
+2023-04-06 20:56:13,411 - deep_learning - INFO - start to get stock price 
+2023-04-06 20:56:18,016 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-06 20:56:23,507 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-06 20:56:29,358 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-06 20:56:35,416 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-06 20:56:42,023 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-06 20:56:51,084 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-06 20:57:00,993 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-06 20:57:10,462 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-06 20:57:20,152 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-06 20:57:31,096 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-06 20:58:08,926 - deep_learning - INFO - success to get value_factor_list factor ,shape = (7871399, 24)
+2023-04-06 21:02:16,910 - deep_learning - INFO - start to get stock price 
+2023-04-06 21:02:21,176 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-06 21:02:26,021 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-06 21:02:31,253 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-06 21:02:36,930 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-06 21:02:43,367 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-06 21:02:52,050 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-06 21:03:01,341 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-06 21:03:10,615 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-06 21:03:20,116 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-06 21:03:32,935 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-06 21:03:43,138 - deep_learning - INFO - success to get value_factor_list factor ,shape = (7871399, 24)
+2023-04-06 21:05:29,940 - deep_learning - INFO - start to get stock price 
+2023-04-06 21:05:34,253 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-06 21:05:39,119 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-06 21:05:44,525 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-06 21:05:50,287 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-06 21:05:56,861 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-06 21:06:05,648 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-06 21:06:14,983 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-06 21:06:24,242 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-06 21:06:33,930 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-06 21:06:45,408 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-06 21:06:59,263 - deep_learning - INFO - success to get value_factor_list factor ,shape = (7871399, 24)
+2023-04-06 22:06:06,564 - deep_learning - INFO - start to get stock price 
+2023-04-06 22:06:11,085 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-06 22:06:15,982 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-06 22:06:21,379 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-06 22:06:27,204 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-06 22:06:33,923 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-06 22:06:42,986 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-06 22:06:53,950 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-06 22:07:03,639 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-06 22:07:14,670 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-06 22:07:28,750 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-06 22:08:00,308 - deep_learning - INFO - success to get value_factor_list factor ,shape = (7871399, 24)
+2023-04-06 22:44:29,802 - deep_learning - INFO - start to get stock price 
+2023-04-06 22:44:34,341 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-06 22:44:39,315 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-06 22:44:45,014 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-06 22:44:50,893 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-06 22:44:57,776 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-06 22:45:06,877 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-06 22:45:17,249 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-06 22:45:26,766 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-06 22:45:38,894 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-06 22:45:52,639 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-06 22:46:03,047 - deep_learning - INFO - success to get value_factor_list factor ,shape = (7871399, 24)
+2023-04-06 22:47:19,250 - deep_learning - INFO - start to get stock price 
+2023-04-06 22:47:23,876 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-06 22:47:29,087 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-06 22:47:34,761 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-06 22:47:40,997 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-06 22:47:48,237 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-06 22:47:57,785 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-06 22:48:16,203 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-06 22:48:25,941 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-06 22:48:36,715 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-06 22:49:01,763 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-06 22:49:35,835 - deep_learning - INFO - success to get value_factor_list factor ,shape = (7871399, 24)
+2023-04-06 23:06:43,844 - deep_learning - INFO - start to get stock price 
+2023-04-06 23:06:48,177 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-06 23:06:53,029 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-06 23:06:58,427 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-06 23:07:04,372 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-06 23:07:10,961 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-06 23:07:19,933 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-06 23:07:29,191 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-06 23:07:38,867 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-06 23:07:48,639 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-06 23:08:01,642 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-06 23:08:11,492 - deep_learning - INFO - success to get value_factor_list factor ,shape = (7871399, 24)
+2023-04-06 23:41:41,710 - deep_learning - INFO - start to get stock price 
+2023-04-06 23:41:45,978 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-06 23:41:50,829 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-06 23:41:56,208 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-06 23:42:02,125 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-06 23:42:08,792 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-06 23:42:17,920 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-06 23:42:27,116 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-06 23:42:39,891 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-06 23:42:50,091 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-06 23:43:45,317 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-06 23:44:15,922 - deep_learning - INFO - success to get value_factor_list factor ,shape = (7871399, 24)
+2023-04-06 23:44:50,119 - deep_learning - INFO - CTOP:0
+2023-04-06 23:45:53,383 - deep_learning - INFO - start to get stock price 
+2023-04-06 23:45:58,422 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-06 23:46:03,460 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-06 23:46:08,936 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-06 23:46:14,754 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-06 23:46:21,537 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-06 23:46:31,499 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-06 23:46:40,948 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-06 23:46:50,605 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-06 23:47:18,693 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-06 23:47:57,858 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-06 23:48:06,573 - deep_learning - INFO - success to get value_factor_list factor ,shape = (7871399, 24)
+2023-04-06 23:48:34,192 - deep_learning - INFO - CTOP:0
+2023-04-07 01:08:11,134 - deep_learning - INFO - start to get stock price 
+2023-04-07 01:12:28,224 - deep_learning - INFO - succ to get stock price 
+2023-04-07 01:12:28,240 - deep_learning - INFO - start to get stock mktcap 
+2023-04-07 01:19:11,085 - deep_learning - INFO - succ to get stock mktcap 
+2023-04-07 01:19:28,299 - deep_learning - INFO - mkt_cap:0
+2023-04-07 01:19:38,596 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-07 01:19:43,779 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-07 01:19:49,524 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-07 01:19:55,723 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-07 01:20:02,580 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-07 01:20:20,726 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-07 01:20:34,297 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-07 01:20:51,450 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-07 01:21:07,646 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-07 01:21:31,549 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-07 01:21:45,851 - deep_learning - INFO - success to get value_factor_list factor ,shape = (7871399, 24)
+2023-04-07 01:22:19,134 - deep_learning - INFO - CTOP:0
+2023-04-07 01:26:04,841 - deep_learning - INFO - start to get stock price 
+2023-04-07 01:33:04,877 - deep_learning - INFO - succ to get stock price 
+2023-04-07 01:33:04,878 - deep_learning - INFO - start to get stock mktcap 
+2023-04-07 01:41:29,452 - deep_learning - INFO - start to get stock price 
+2023-04-07 01:41:58,143 - deep_learning - INFO - start to get stock price 
+2023-04-07 01:46:06,570 - deep_learning - INFO - succ to get stock price 
+2023-04-07 01:46:06,571 - deep_learning - INFO - start to get stock mktcap 
+2023-04-07 01:55:06,493 - deep_learning - INFO - succ to get stock mktcap 
+2023-04-07 01:56:12,994 - deep_learning - INFO - mkt_cap:0
+2023-04-07 01:58:31,709 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-07 01:58:38,313 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-07 01:58:44,962 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-07 01:58:51,266 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-07 01:58:58,514 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-07 01:59:27,802 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-07 01:59:38,925 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-07 01:59:48,783 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-07 01:59:59,066 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-07 02:00:11,646 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-07 02:00:32,431 - deep_learning - INFO - success to get value_factor_list factor ,shape = (7871399, 24)
+2023-04-07 02:01:13,291 - deep_learning - INFO - CTOP:0
+2023-04-07 02:09:40,615 - deep_learning - INFO - mkt_cap:0
+2023-04-07 10:43:55,396 - deep_learning - INFO - start to get stock price 
+2023-04-07 10:48:00,486 - deep_learning - INFO - succ to get stock price 
+2023-04-07 10:48:03,105 - deep_learning - INFO - start to get stock mktcap 
+2023-04-07 10:54:16,898 - deep_learning - INFO - succ to get stock mktcap 
+2023-04-07 10:54:26,003 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-07 10:54:31,371 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-07 10:54:36,943 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-07 10:54:42,892 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-07 10:54:49,637 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-07 10:55:06,137 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-07 10:55:15,920 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-07 10:55:26,540 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-07 10:55:39,042 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-07 10:56:01,502 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-07 10:58:33,398 - deep_learning - INFO - success to get value_factor_list factor ,shape = (7871399, 24)
+2023-04-07 11:01:09,787 - deep_learning - INFO - start to get stock price 
+2023-04-07 11:05:10,267 - deep_learning - INFO - succ to get stock price 
+2023-04-07 11:05:15,926 - deep_learning - INFO - start to get stock mktcap 
+2023-04-07 11:11:21,356 - deep_learning - INFO - succ to get stock mktcap 
+2023-04-07 11:17:56,048 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-07 11:18:01,139 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-07 11:18:06,663 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-07 11:18:12,795 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-07 11:18:19,476 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-07 11:18:31,713 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-07 11:18:42,421 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-07 11:18:52,219 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-07 11:19:02,192 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-07 11:19:14,683 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-07 11:19:25,179 - deep_learning - INFO - success to get value_factor_list factor ,shape = (7871399, 24)
+2023-04-07 11:20:43,690 - deep_learning - INFO - CTOP:0
+2023-04-07 11:21:04,051 - deep_learning - INFO - mkt_cap:0
+2023-04-07 11:32:45,703 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-07 11:32:50,753 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-07 11:32:56,191 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-07 11:33:02,059 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-07 11:33:08,713 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-07 11:33:19,489 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-07 11:33:28,818 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-07 11:33:38,561 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-07 11:33:48,281 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-07 11:34:01,525 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-07 11:34:14,825 - deep_learning - INFO - success to get value_factor_list factor ,shape = (7871399, 24)
+2023-04-07 11:34:41,511 - deep_learning - INFO - CTOP:0
+2023-04-07 11:35:00,526 - deep_learning - INFO - mkt_cap:0
+2023-04-07 11:43:17,208 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-07 11:43:22,349 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-07 11:43:27,858 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-07 11:43:33,765 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-07 11:43:40,406 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-07 11:43:51,311 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-07 11:44:00,679 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-07 11:44:10,110 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-07 11:44:19,620 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-07 11:44:31,663 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-07 11:44:42,016 - deep_learning - INFO - success to get value_factor_list factor ,shape = (7871399, 24)
+2023-04-07 11:45:14,283 - deep_learning - INFO - CTOP:0
+2023-04-07 11:45:33,220 - deep_learning - INFO - mkt_cap:0
+2023-04-07 11:48:50,838 - deep_learning - INFO - close:0
+2023-04-07 11:51:45,051 - deep_learning - INFO - close:0
+2023-04-07 13:10:36,416 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-07 13:10:41,465 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-07 13:10:46,903 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-07 13:10:52,805 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-07 13:10:59,409 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-07 13:11:11,228 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-07 13:11:20,342 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-07 13:11:29,859 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-07 13:11:40,105 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-07 13:11:52,681 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-07 13:11:59,921 - deep_learning - INFO - success to get value_factor_list factor ,shape = (7871399, 24)
+2023-04-07 13:12:26,366 - deep_learning - INFO - CTOP:0
+2023-04-07 13:12:43,982 - deep_learning - INFO - mkt_cap:0
+2023-04-07 13:15:33,458 - deep_learning - INFO - close:0
+2023-04-07 13:20:38,428 - deep_learning - INFO - close:0
+2023-04-07 13:37:13,636 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-07 13:37:18,796 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-07 13:37:24,381 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-07 13:37:30,508 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-07 13:37:37,101 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-07 13:38:20,969 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-07 13:38:33,887 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-07 13:38:54,922 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-07 13:39:10,893 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-07 13:39:22,824 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-07 13:39:56,906 - deep_learning - INFO - success to get value_factor_list factor ,shape = (7871399, 24)
+2023-04-07 13:40:23,499 - deep_learning - INFO - CTOP:0
+2023-04-07 13:40:40,257 - deep_learning - INFO - mkt_cap:0
+2023-04-07 13:41:45,976 - deep_learning - INFO - close:0
+2023-04-07 13:44:22,575 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-07 13:44:27,583 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-07 13:44:33,017 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-07 13:44:38,885 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-07 13:44:45,495 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-07 13:44:58,578 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-07 13:45:07,895 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-07 13:45:17,412 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-07 13:45:27,434 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-07 13:45:41,112 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-07 13:45:50,239 - deep_learning - INFO - success to get value_factor_list factor ,shape = (7871399, 24)
+2023-04-07 13:46:17,692 - deep_learning - INFO - CTOP:0
+2023-04-07 13:46:35,609 - deep_learning - INFO - mkt_cap:0
+2023-04-07 13:47:43,650 - deep_learning - INFO - close:0
+2023-04-07 13:50:33,939 - deep_learning - INFO - start to get stock price 
+2023-04-07 13:51:44,667 - deep_learning - INFO - succ to get stock price 
+2023-04-07 13:51:50,367 - deep_learning - INFO - start to get stock mktcap 
+2023-04-07 13:53:42,545 - deep_learning - INFO - succ to get stock mktcap 
+2023-04-07 17:03:13,412 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-07 17:03:19,141 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-07 17:03:25,864 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-07 17:03:31,902 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-07 17:03:38,757 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-07 17:04:55,627 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-07 17:05:19,626 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-07 17:05:39,126 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-07 17:06:01,247 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-07 17:06:27,773 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-07 17:06:43,316 - deep_learning - INFO - success to get value_factor_list factor ,shape = (7871399, 24)
+2023-04-07 17:07:15,390 - deep_learning - INFO - CTOP:0
+2023-04-07 17:07:35,516 - deep_learning - INFO - mkt_cap:0
+2023-04-07 17:08:46,705 - deep_learning - INFO - close:0
+2023-04-07 17:47:27,204 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-07 17:47:46,061 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-07 17:47:52,652 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-07 17:47:58,708 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-07 17:48:05,516 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-07 17:48:23,527 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-07 17:48:32,874 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-07 17:48:43,697 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-07 17:49:00,356 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-07 17:49:24,900 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-07 17:49:43,920 - deep_learning - INFO - success to get value_factor_list factor ,shape = (7871399, 24)
+2023-04-07 17:50:13,577 - deep_learning - INFO - CTOP:0
+2023-04-07 17:50:32,994 - deep_learning - INFO - mkt_cap:0
+2023-04-07 17:51:44,792 - deep_learning - INFO - close:0
+2023-04-07 17:59:18,379 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-07 17:59:23,685 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-07 17:59:29,399 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-07 17:59:35,597 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-07 17:59:42,959 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-07 17:59:55,642 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-07 18:00:05,512 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-07 18:00:14,958 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-07 18:00:24,699 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-07 18:00:38,835 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-07 18:00:47,420 - deep_learning - INFO - success to get value_factor_list factor ,shape = (7871399, 24)
+2023-04-07 18:01:14,203 - deep_learning - INFO - CTOP:0
+2023-04-07 18:01:31,838 - deep_learning - INFO - mkt_cap:0
+2023-04-07 18:02:38,412 - deep_learning - INFO - close:0
+2023-04-07 20:14:19,236 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-07 20:14:24,295 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-07 20:14:29,857 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-07 20:14:35,858 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-07 20:14:42,553 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-07 20:14:54,827 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-07 20:15:04,049 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-07 20:15:13,404 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-07 20:15:23,463 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-07 20:15:36,734 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-07 20:15:43,716 - deep_learning - INFO - success to get value_factor_list factor ,shape = (7871399, 24)
+2023-04-07 20:16:10,126 - deep_learning - INFO - CTOP:0
+2023-04-07 20:16:27,516 - deep_learning - INFO - mkt_cap:0
+2023-04-07 20:17:32,777 - deep_learning - INFO - close:0
+2023-04-07 20:54:25,154 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-07 20:54:30,184 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-07 20:54:35,721 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-07 20:54:41,676 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-07 20:54:48,282 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-07 20:55:01,588 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-07 20:55:11,149 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-07 20:55:20,548 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-07 20:55:30,622 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-07 20:56:04,969 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-07 20:56:27,905 - deep_learning - INFO - success to get value_factor_list factor ,shape = (7871399, 24)
+2023-04-07 20:56:56,564 - deep_learning - INFO - CTOP:0
+2023-04-07 20:57:14,925 - deep_learning - INFO - mkt_cap:0
+2023-04-07 20:58:25,690 - deep_learning - INFO - close:0
+2023-04-07 21:10:06,981 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-07 21:10:12,194 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-07 21:10:17,855 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-07 21:10:23,984 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-07 21:10:31,666 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-07 21:10:44,831 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-07 21:10:54,040 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-07 21:11:03,501 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-07 21:11:14,099 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-07 21:11:26,616 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-07 21:11:40,138 - deep_learning - INFO - success to get value_factor_list factor ,shape = (7871399, 24)
+2023-04-07 21:12:12,079 - deep_learning - INFO - CTOP:0
+2023-04-07 21:12:37,000 - deep_learning - INFO - mkt_cap:0
+2023-04-07 21:13:48,295 - deep_learning - INFO - close:0
+2023-04-07 21:27:16,411 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-07 21:27:21,955 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-07 21:27:28,247 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-07 21:27:34,243 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-07 21:27:41,105 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-07 21:27:55,573 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-07 21:28:05,512 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-07 21:28:15,527 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-07 21:28:25,331 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-07 21:28:37,269 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-07 21:28:44,026 - deep_learning - INFO - success to get value_factor_list factor ,shape = (7871399, 24)
+2023-04-07 21:29:11,601 - deep_learning - INFO - CTOP:0
+2023-04-07 21:29:30,671 - deep_learning - INFO - mkt_cap:0
+2023-04-07 21:30:39,926 - deep_learning - INFO - close:0
+2023-04-07 21:34:36,249 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-07 21:34:41,404 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-07 21:34:47,119 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-07 21:34:53,233 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-07 21:35:00,034 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-07 21:35:12,529 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-07 21:35:22,244 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-07 21:35:31,793 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-07 21:35:41,458 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-07 21:36:08,483 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-07 21:36:23,937 - deep_learning - INFO - success to get value_factor_list factor ,shape = (7871399, 24)
+2023-04-07 21:36:56,128 - deep_learning - INFO - CTOP:0
+2023-04-07 21:37:14,015 - deep_learning - INFO - mkt_cap:0
+2023-04-07 21:38:25,126 - deep_learning - INFO - close:0
+2023-04-07 21:55:20,629 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-07 21:55:25,679 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-07 21:55:31,092 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-07 21:55:37,065 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-07 21:55:43,742 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-07 21:55:57,065 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-07 21:56:06,547 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-07 21:56:17,083 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-07 21:56:27,142 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-07 21:56:40,060 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-07 21:56:49,488 - deep_learning - INFO - success to get value_factor_list factor ,shape = (7871399, 24)
+2023-04-07 21:57:19,287 - deep_learning - INFO - CTOP:0
+2023-04-07 21:57:37,420 - deep_learning - INFO - mkt_cap:0
+2023-04-07 21:58:45,078 - deep_learning - INFO - close:0
+2023-04-07 23:49:41,553 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-07 23:49:47,102 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-07 23:49:52,870 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-07 23:49:58,898 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-07 23:50:05,648 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-07 23:50:19,312 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-07 23:50:28,789 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-07 23:50:41,714 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-07 23:50:51,811 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-07 23:51:42,583 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-07 23:52:26,991 - deep_learning - INFO - success to get value_factor_list factor ,shape = (7871399, 24)
+2023-04-07 23:52:54,464 - deep_learning - INFO - CTOP:0
+2023-04-07 23:53:12,248 - deep_learning - INFO - mkt_cap:0
+2023-04-07 23:54:19,632 - deep_learning - INFO - close:0
+2023-04-08 00:51:41,899 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-08 00:51:46,908 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-08 00:51:52,486 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-08 00:51:58,427 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-08 00:52:05,447 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-08 00:52:20,108 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-08 00:52:33,453 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-08 00:52:43,476 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-08 00:52:53,126 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-08 00:53:19,485 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-08 00:53:35,454 - deep_learning - INFO - success to get value_factor_list factor ,shape = (7871399, 24)
+2023-04-08 00:53:56,205 - deep_learning - INFO - CTOP:0
+2023-04-08 00:54:12,700 - deep_learning - INFO - mkt_cap:0
+2023-04-08 00:55:15,974 - deep_learning - INFO - close:0
+2023-04-08 00:56:23,109 - deep_learning - INFO - CTP5:377313
+2023-04-08 00:56:35,036 - deep_learning - INFO - mkt_cap:0
+2023-04-08 01:16:09,162 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-08 01:16:14,069 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-08 01:16:19,430 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-08 01:16:25,332 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-08 01:16:32,089 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-08 01:16:43,091 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-08 01:16:52,422 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-08 01:17:02,298 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-08 01:17:11,927 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-08 01:17:26,165 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-08 01:17:32,960 - deep_learning - INFO - success to get value_factor_list factor ,shape = (7871399, 24)
+2023-04-08 01:17:53,907 - deep_learning - INFO - CTOP:0
+2023-04-08 01:18:10,884 - deep_learning - INFO - mkt_cap:0
+2023-04-08 01:19:07,534 - deep_learning - INFO - close:0
+2023-04-08 01:20:08,946 - deep_learning - INFO - CTP5:377313
+2023-04-08 01:20:20,832 - deep_learning - INFO - mkt_cap:0
+2023-04-08 01:23:48,899 - deep_learning - INFO - close:0
+2023-04-08 01:23:56,260 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-08 01:24:01,130 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-08 01:24:06,540 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-08 01:24:12,348 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-08 01:24:19,147 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-08 01:24:31,069 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-08 01:24:40,257 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-08 01:24:49,557 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-08 01:25:00,505 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-08 01:25:12,299 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-08 01:25:22,335 - deep_learning - INFO - success to get value_factor_list factor ,shape = (7871399, 24)
+2023-04-08 01:26:04,845 - deep_learning - INFO - CTOP:0
+2023-04-08 01:26:21,887 - deep_learning - INFO - mkt_cap:0
+2023-04-08 01:40:53,516 - deep_learning - INFO - CTP5:377313
+2023-04-08 01:41:19,550 - deep_learning - INFO - mkt_cap:0
+2023-04-08 01:45:01,338 - deep_learning - INFO - mkt_cap:0
+2023-04-08 01:45:16,814 - deep_learning - INFO - close:0
+2023-04-08 01:45:24,006 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-08 01:45:28,718 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-08 01:45:34,020 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-08 01:45:39,726 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-08 01:45:46,275 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-08 01:45:55,713 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-08 01:46:04,850 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-08 01:46:14,826 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-08 01:46:24,468 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-08 01:47:31,748 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-08 01:47:45,659 - deep_learning - INFO - success to get value_factor_list factor ,shape = (7871399, 24)
+2023-04-08 01:48:17,308 - deep_learning - INFO - CTOP:0
+2023-04-08 01:50:11,547 - deep_learning - INFO - CTP5:0
+2023-04-08 01:51:54,398 - deep_learning - INFO - ETOP:0
+2023-04-08 01:53:39,320 - deep_learning - INFO - ETP5:0
+2023-04-08 01:55:23,357 - deep_learning - INFO - LCAP:0
+2023-04-08 01:57:06,460 - deep_learning - INFO - LFLO:0
+2023-04-08 01:58:49,169 - deep_learning - INFO - PB:0
+2023-04-08 02:00:32,636 - deep_learning - INFO - PCF:0
+2023-04-08 02:02:16,688 - deep_learning - INFO - PE:0
+2023-04-08 02:04:00,667 - deep_learning - INFO - PS:0
+2023-04-08 02:05:44,231 - deep_learning - INFO - TA2EV:0
+2023-04-08 02:07:27,489 - deep_learning - INFO - PEG3Y:0
+2023-04-08 02:09:12,887 - deep_learning - INFO - PEG5Y:0
+2023-04-08 02:10:58,577 - deep_learning - INFO - PEIndu:0
+2023-04-08 02:12:41,078 - deep_learning - INFO - PBIndu:0
+2023-04-08 02:14:24,318 - deep_learning - INFO - PSIndu:0
+2023-04-08 02:15:45,306 - deep_learning - ERROR - 缺失值数大于20%，剔除该因子:PCFIndu
+2023-04-08 02:16:06,984 - deep_learning - INFO - StaticPE:0
+2023-04-08 02:17:50,276 - deep_learning - INFO - ForwardPE:0
+2023-04-08 02:19:33,058 - deep_learning - INFO - MktValue:0
+2023-04-08 02:21:15,899 - deep_learning - INFO - NegMktValue:0
+2023-04-08 02:22:36,825 - deep_learning - ERROR - 缺失值数大于20%，剔除该因子:EPIBS
+2023-04-08 02:22:59,400 - deep_learning - INFO - CETOP:0
+2023-04-08 02:24:42,068 - deep_learning - INFO - NLSIZE:0
+2023-04-08 02:26:06,840 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-08 02:26:11,604 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-08 02:26:16,964 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-08 02:26:22,731 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-08 02:26:29,282 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-08 02:26:38,264 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-08 02:26:47,897 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-08 02:26:57,138 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-08 02:27:07,253 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-08 02:27:20,266 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-08 02:27:27,201 - deep_learning - INFO - success to get growth_factor_list factor ,shape = (7871399, 23)
+2023-04-08 02:27:41,827 - deep_learning - INFO - EGRO:0
+2023-04-08 02:29:23,996 - deep_learning - INFO - FinancingCashGrowRate:0
+2023-04-08 02:31:03,622 - deep_learning - INFO - InvestCashGrowRate:0
+2023-04-08 02:32:43,727 - deep_learning - INFO - NetAssetGrowRate:0
+2023-04-08 02:34:14,672 - deep_learning - INFO - NetProfitGrowRate:0
+2023-04-08 02:35:46,429 - deep_learning - INFO - NPParentCompanyGrowRate:0
+2023-04-08 02:37:16,980 - deep_learning - INFO - OperatingProfitGrowRate:0
+2023-04-08 02:38:47,576 - deep_learning - INFO - OperatingRevenueGrowRate:0
+2023-04-08 02:40:18,093 - deep_learning - INFO - OperCashGrowRate:0
+2023-04-08 02:41:48,934 - deep_learning - INFO - SUE:0
+2023-04-08 02:43:19,372 - deep_learning - INFO - TotalAssetGrowRate:0
+2023-04-08 02:44:50,229 - deep_learning - INFO - TotalProfitGrowRate:0
+2023-04-08 02:46:09,898 - deep_learning - ERROR - 缺失值数大于20%，剔除该因子:FEARNG
+2023-04-08 02:46:09,914 - deep_learning - ERROR - 缺失值数大于20%，剔除该因子:FSALESG
+2023-04-08 02:46:20,567 - deep_learning - INFO - SUOI:0
+2023-04-08 02:47:51,027 - deep_learning - INFO - NetProfitGrowRate3Y:0
+2023-04-08 02:49:22,104 - deep_learning - INFO - NetProfitGrowRate5Y:0
+2023-04-08 02:50:53,527 - deep_learning - INFO - OperatingRevenueGrowRate3Y:0
+2023-04-08 02:52:24,310 - deep_learning - INFO - OperatingRevenueGrowRate5Y:0
+2023-04-08 02:53:55,042 - deep_learning - INFO - NetCashFlowGrowRate:0
+2023-04-08 02:55:25,793 - deep_learning - INFO - NPParentCompanyCutYOY:0
+2023-04-08 02:56:56,481 - deep_learning - INFO - SGRO:0
+2023-04-08 02:58:16,367 - deep_learning - ERROR - 缺失值数大于20%，剔除该因子:EgibsLong
+2023-04-08 02:58:20,436 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-08 02:58:25,343 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-08 02:58:30,782 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-08 02:58:36,822 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-08 02:58:43,764 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-08 02:58:53,232 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-08 02:59:05,336 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-08 02:59:17,468 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-08 02:59:27,936 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-08 03:00:23,075 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-08 03:01:36,598 - deep_learning - INFO - success to get financial_factor_list factor ,shape = (7871399, 135)
+2023-04-08 03:01:48,239 - deep_learning - INFO - ASSI:0
+2023-04-08 03:03:32,073 - deep_learning - INFO - TotalAssets:0
+2023-04-08 03:06:20,250 - deep_learning - INFO - TEAP:0
+2023-04-08 03:08:02,790 - deep_learning - INFO - NIAP:0
+2023-04-08 03:09:37,608 - deep_learning - INFO - TotalFixedAssets:0
+2023-04-08 03:11:10,743 - deep_learning - INFO - IntFreeCL:0
+2023-04-08 03:12:43,092 - deep_learning - INFO - IntFreeNCL:0
+2023-04-08 03:14:15,373 - deep_learning - INFO - IntCL:0
+2023-04-08 03:15:47,538 - deep_learning - INFO - IntDebt:0
+2023-04-08 03:17:20,058 - deep_learning - INFO - NetDebt:0
+2023-04-08 03:18:52,669 - deep_learning - INFO - NetTangibleAssets:0
+2023-04-08 03:20:24,875 - deep_learning - INFO - WorkingCapital:0
+2023-04-08 03:21:57,040 - deep_learning - INFO - NetWorkingCapital:0
+2023-04-08 03:23:29,659 - deep_learning - INFO - TotalPaidinCapital:0
+2023-04-08 03:25:02,280 - deep_learning - INFO - RetainedEarnings:0
+2023-04-08 03:26:34,548 - deep_learning - INFO - OperateNetIncome:0
+2023-04-08 03:28:06,466 - deep_learning - INFO - ValueChgProfit:0
+2023-04-08 03:29:38,594 - deep_learning - INFO - NetIntExpense:0
+2023-04-08 03:31:10,563 - deep_learning - INFO - EBIT:0
+2023-04-08 03:32:43,198 - deep_learning - INFO - EBITDA:0
+2023-04-08 03:34:15,480 - deep_learning - INFO - EBIAT:0
+2023-04-08 03:35:48,691 - deep_learning - INFO - NRProfitLoss:0
+2023-04-08 03:37:20,620 - deep_learning - INFO - NIAPCut:0
+2023-04-08 03:38:52,700 - deep_learning - INFO - FCFF:0
+2023-04-08 03:40:25,105 - deep_learning - INFO - FCFE:0
+2023-04-08 03:41:57,104 - deep_learning - INFO - DA:0
+2023-04-08 03:43:29,391 - deep_learning - INFO - TRevenueTTM:0
+2023-04-08 03:45:01,518 - deep_learning - INFO - TCostTTM:0
+2023-04-08 03:46:33,873 - deep_learning - INFO - RevenueTTM:0
+2023-04-08 03:48:06,470 - deep_learning - INFO - CostTTM:0
+2023-04-08 03:49:42,008 - deep_learning - INFO - GrossProfitTTM:0
+2023-04-08 03:51:25,926 - deep_learning - INFO - SalesExpenseTTM:0
+2023-04-08 03:53:06,558 - deep_learning - INFO - AdminExpenseTTM:0
+2023-04-08 03:54:42,076 - deep_learning - INFO - FinanExpenseTTM:0
+2023-04-08 03:56:14,647 - deep_learning - INFO - AssetImpairLossTTM:0
+2023-04-08 03:57:47,090 - deep_learning - INFO - NPFromOperatingTTM:0
+2023-04-08 03:59:18,842 - deep_learning - INFO - NPFromValueChgTTM:0
+2023-04-08 04:00:50,911 - deep_learning - INFO - OperateProfitTTM:0
+2023-04-08 04:02:22,839 - deep_learning - INFO - NonOperatingNPTTM:0
+2023-04-08 04:03:55,049 - deep_learning - INFO - TProfitTTM:0
+2023-04-08 04:05:27,328 - deep_learning - INFO - NetProfitTTM:0
+2023-04-08 04:07:00,041 - deep_learning - INFO - NetProfitAPTTM:0
+2023-04-08 04:08:32,163 - deep_learning - INFO - SaleServiceRenderCashTTM:0
+2023-04-08 04:10:04,943 - deep_learning - INFO - NetOperateCFTTM:0
+2023-04-08 04:11:37,667 - deep_learning - INFO - NetInvestCFTTM:0
+2023-04-08 04:13:10,029 - deep_learning - INFO - NetFinanceCFTTM:0
+2023-04-08 04:14:42,521 - deep_learning - INFO - GrossProfit:0
+2023-04-08 04:16:14,879 - deep_learning - INFO - AccountsPayablesTDays:0
+2023-04-08 04:17:46,641 - deep_learning - INFO - AccountsPayablesTRate:0
+2023-04-08 04:19:19,105 - deep_learning - INFO - AdminiExpenseRate:0
+2023-04-08 04:20:51,483 - deep_learning - INFO - ARTDays:0
+2023-04-08 04:22:23,838 - deep_learning - INFO - ARTRate:0
+2023-04-08 04:23:55,624 - deep_learning - INFO - BLEV:0
+2023-04-08 04:25:27,709 - deep_learning - INFO - BondsPayableToAsset:0
+2023-04-08 10:16:55,250 - deep_learning - INFO - mkt_cap:0
+2023-04-08 10:17:12,638 - deep_learning - INFO - close:0
+2023-04-08 10:18:35,062 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-08 10:18:40,595 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-08 10:18:46,576 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-08 10:18:53,133 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-08 10:19:00,617 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-08 10:19:17,465 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-08 10:19:35,864 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-08 10:20:06,166 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-08 10:20:31,156 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-08 10:21:33,626 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-08 10:23:02,577 - deep_learning - INFO - success to get financial_factor_list factor ,shape = (7871399, 135)
+2023-04-08 10:25:57,346 - deep_learning - INFO - mkt_cap:0
+2023-04-08 10:26:14,625 - deep_learning - INFO - close:0
+2023-04-08 10:26:22,386 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-08 10:26:27,748 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-08 10:26:33,679 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-08 10:26:39,955 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-08 10:26:47,155 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-08 10:27:23,017 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-08 10:27:48,948 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-08 10:27:59,813 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-08 10:28:10,709 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-08 10:29:23,491 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-08 10:30:31,342 - deep_learning - INFO - success to get financial_factor_list factor ,shape = (7871399, 82)
+2023-04-08 10:31:00,368 - deep_learning - INFO - BondsPayableToAsset:0
+2023-04-08 10:55:34,308 - deep_learning - INFO - mkt_cap:0
+2023-04-08 10:55:50,797 - deep_learning - INFO - close:0
+2023-04-08 11:00:38,078 - deep_learning - INFO - mkt_cap:0
+2023-04-08 11:00:54,462 - deep_learning - INFO - close:0
+2023-04-08 11:01:01,938 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-08 11:01:07,121 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-08 11:01:12,948 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-08 11:01:19,161 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-08 11:01:26,075 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-08 11:01:39,716 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-08 11:01:51,960 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-08 11:02:03,371 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-08 11:02:15,578 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-08 11:02:39,831 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-08 11:03:11,823 - deep_learning - INFO - success to get financial_factor_list factor ,shape = (7871399, 82)
+2023-04-08 11:03:24,659 - deep_learning - INFO - BondsPayableToAsset:0
+2023-04-08 11:04:41,501 - deep_learning - ERROR - Either quantiles or bins should be provided
+2023-04-08 11:05:02,593 - deep_learning - INFO - CashRateOfSales:0
+2023-04-08 11:06:29,116 - deep_learning - ERROR - Either quantiles or bins should be provided
+2023-04-08 11:33:29,745 - deep_learning - INFO - mkt_cap:0
+2023-04-08 11:33:46,226 - deep_learning - INFO - close:0
+2023-04-08 11:33:53,735 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-08 11:33:58,907 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-08 11:34:04,668 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-08 11:34:10,808 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-08 11:34:17,878 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-08 11:34:27,727 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-08 11:34:40,170 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-08 11:34:50,396 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-08 11:35:01,307 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-08 11:35:15,505 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-08 11:35:31,909 - deep_learning - INFO - success to get financial_factor_list factor ,shape = (7871399, 82)
+2023-04-08 11:35:44,446 - deep_learning - INFO - BondsPayableToAsset:0
+2023-04-08 11:37:00,147 - deep_learning - ERROR - max_loss (35.0%) exceeded 100.0%, consider increasing it.
+2023-04-08 11:37:45,618 - deep_learning - INFO - CashRateOfSales:0
+2023-04-08 11:40:41,838 - deep_learning - INFO - mkt_cap:0
+2023-04-08 11:40:57,528 - deep_learning - INFO - close:0
+2023-04-08 11:41:04,912 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-08 11:41:09,996 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-08 11:41:15,602 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-08 11:41:21,642 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-08 11:41:28,515 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-08 11:41:37,997 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-08 11:41:50,356 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-08 11:42:02,627 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-08 11:42:14,353 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-08 11:42:30,245 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-08 11:42:45,981 - deep_learning - INFO - success to get financial_factor_list factor ,shape = (7871399, 82)
+2023-04-08 11:42:57,773 - deep_learning - INFO - BondsPayableToAsset:0
+2023-04-08 11:43:59,759 - deep_learning - ERROR - max_loss (35.0%) exceeded 100.0%, consider increasing it.
+2023-04-08 11:44:10,544 - deep_learning - INFO - CashRateOfSales:0
+2023-04-08 11:45:45,096 - deep_learning - INFO - CashToCurrentLiability:0
+2023-04-08 11:47:17,742 - deep_learning - INFO - CurrentAssetsRatio:0
+2023-04-08 11:48:50,948 - deep_learning - INFO - CurrentAssetsTRate:0
+2023-04-08 11:50:24,775 - deep_learning - INFO - CurrentRatio:0
+2023-04-08 11:51:57,804 - deep_learning - INFO - DebtEquityRatio:0
+2023-04-08 11:53:30,315 - deep_learning - INFO - DebtsAssetRatio:0
+2023-04-08 11:55:03,602 - deep_learning - INFO - EBITToTOR:0
+2023-04-08 11:56:36,720 - deep_learning - INFO - EquityFixedAssetRatio:0
+2023-04-08 11:58:09,307 - deep_learning - INFO - EquityToAsset:0
+2023-04-08 11:59:45,343 - deep_learning - INFO - EquityTRate:0
+2023-04-08 12:01:26,750 - deep_learning - INFO - FinancialExpenseRate:0
+2023-04-08 12:03:14,552 - deep_learning - INFO - FixAssetRatio:0
+2023-04-08 12:04:48,419 - deep_learning - INFO - FixedAssetsTRate:0
+2023-04-08 12:06:21,613 - deep_learning - INFO - GrossIncomeRatio:0
+2023-04-08 12:07:54,358 - deep_learning - INFO - IntangibleAssetRatio:0
+2023-04-08 12:09:28,096 - deep_learning - INFO - InventoryTDays:0
+2023-04-08 12:11:01,292 - deep_learning - INFO - InventoryTRate:0
+2023-04-08 12:12:34,211 - deep_learning - INFO - LongDebtToAsset:0
+2023-04-08 12:14:06,741 - deep_learning - INFO - LongDebtToWorkingCapital:0
+2023-04-08 12:15:40,236 - deep_learning - INFO - LongTermDebtToAsset:0
+2023-04-08 12:17:13,258 - deep_learning - INFO - MLEV:0
+2023-04-08 12:18:46,221 - deep_learning - INFO - NetProfitRatio:0
+2023-04-08 12:20:19,321 - deep_learning - INFO - NOCFToOperatingNI:0
+2023-04-08 12:21:55,299 - deep_learning - INFO - NonCurrentAssetsRatio:0
+2023-04-08 12:23:30,604 - deep_learning - INFO - NPToTOR:0
+2023-04-08 12:25:07,110 - deep_learning - INFO - OperatingExpenseRate:0
+2023-04-08 12:26:40,402 - deep_learning - INFO - OperatingProfitRatio:0
+2023-04-08 12:28:13,733 - deep_learning - INFO - OperatingProfitToTOR:0
+2023-04-08 12:29:49,329 - deep_learning - INFO - OperCashInToCurrentLiability:0
+2023-04-08 12:31:28,941 - deep_learning - INFO - QuickRatio:0
+2023-04-08 12:33:04,381 - deep_learning - INFO - ROA:0
+2023-04-08 12:34:43,003 - deep_learning - INFO - ROA5:0
+2023-04-08 12:36:25,786 - deep_learning - INFO - ROE:0
+2023-04-08 12:38:13,123 - deep_learning - INFO - ROE5:0
+2023-04-08 12:39:50,056 - deep_learning - INFO - SalesCostRatio:0
+2023-04-08 12:41:26,977 - deep_learning - INFO - SaleServiceCashToOR:0
+2023-04-08 12:43:14,558 - deep_learning - INFO - TaxRatio:0
+2023-04-08 12:44:56,515 - deep_learning - INFO - TotalAssetsTRate:0
+2023-04-08 12:46:35,257 - deep_learning - INFO - TotalProfitCostRatio:0
+2023-04-08 12:48:12,172 - deep_learning - INFO - CFO2EV:0
+2023-04-08 12:49:48,864 - deep_learning - INFO - ACCA:0
+2023-04-08 12:51:27,726 - deep_learning - INFO - DEGM:0
+2023-04-08 12:53:07,978 - deep_learning - INFO - CashDividendCover:0
+2023-04-08 12:54:45,419 - deep_learning - INFO - DividendCover:0
+2023-04-08 12:56:11,940 - deep_learning - ERROR - 缺失值数大于20%，剔除该因子:DividendPaidRatio
+2023-04-08 12:56:12,095 - deep_learning - ERROR - 缺失值数大于20%，剔除该因子:RetainedEarningRatio
+2023-04-08 12:56:23,405 - deep_learning - INFO - NetNonOIToTP:0
+2023-04-08 12:58:00,611 - deep_learning - INFO - NetNonOIToTPLatest:0
+2023-04-08 12:59:38,306 - deep_learning - INFO - PeriodCostsRate:0
+2023-04-08 13:01:15,870 - deep_learning - INFO - InterestCover:0
+2023-04-08 13:02:51,660 - deep_learning - INFO - NetProfitCashCover:0
+2023-04-08 13:04:29,273 - deep_learning - INFO - OperCashInToAsset:0
+2023-04-08 13:06:06,686 - deep_learning - INFO - CashConversionCycle:0
+2023-04-08 13:07:46,148 - deep_learning - INFO - OperatingCycle:0
+2023-04-08 13:09:24,333 - deep_learning - INFO - ROEDiluted:0
+2023-04-08 13:11:06,760 - deep_learning - INFO - ROEAvg:0
+2023-04-08 13:12:52,396 - deep_learning - INFO - ROEWeighted:0
+2023-04-08 13:14:47,558 - deep_learning - INFO - ROECut:0
+2023-04-08 13:16:27,160 - deep_learning - INFO - ROECutWeighted:0
+2023-04-08 13:18:06,727 - deep_learning - INFO - ROIC:0
+2023-04-08 13:19:42,692 - deep_learning - INFO - ROAEBIT:0
+2023-04-08 13:21:17,900 - deep_learning - INFO - ROAEBITTTM:0
+2023-04-08 13:22:52,240 - deep_learning - INFO - OperatingNIToTP:0
+2023-04-08 13:24:28,348 - deep_learning - INFO - OperatingNIToTPLatest:0
+2023-04-08 13:25:52,302 - deep_learning - ERROR - 缺失值数大于20%，剔除该因子:InvestRAssociatesToTP
+2023-04-08 13:25:52,445 - deep_learning - ERROR - 缺失值数大于20%，剔除该因子:InvestRAssociatesToTPLatest
+2023-04-08 13:26:03,165 - deep_learning - INFO - NPCutToNP:0
+2023-04-08 13:27:38,373 - deep_learning - INFO - SuperQuickRatio:0
+2023-04-08 13:29:16,196 - deep_learning - INFO - TSEPToInterestBearDebt:0
+2023-04-08 13:30:53,635 - deep_learning - INFO - DebtTangibleEquityRatio:0
+2023-04-08 13:32:32,040 - deep_learning - INFO - TangibleAToInteBearDebt:0
+2023-04-08 13:34:08,868 - deep_learning - INFO - TangibleAToNetDebt:0
+2023-04-08 13:35:43,845 - deep_learning - INFO - NOCFToTLiability:0
+2023-04-08 13:37:19,436 - deep_learning - INFO - NOCFToInterestBearDebt:0
+2023-04-08 13:38:54,537 - deep_learning - INFO - NOCFToNetDebt:0
+2023-04-08 13:40:30,355 - deep_learning - INFO - TSEPToTotalCapital:0
+2023-04-08 13:42:06,744 - deep_learning - INFO - InteBearDebtToTotalCapital:0
+2023-04-08 13:43:42,923 - deep_learning - INFO - SalesServiceCashToORLatest:0
+2023-04-08 13:45:17,784 - deep_learning - INFO - CashRateOfSalesLatest:0
+2023-04-08 13:46:53,187 - deep_learning - INFO - NOCFToOperatingNILatest:0
+2023-04-08 13:48:21,561 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-08 13:48:26,578 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-08 13:48:32,044 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-08 13:48:37,905 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-08 13:48:44,517 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-08 13:48:53,692 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-08 13:49:03,129 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-08 13:49:12,742 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-08 13:49:30,386 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-08 13:49:58,509 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-08 13:50:44,017 - deep_learning - INFO - success to get psi_factor_list factor ,shape = (7871399, 20)
+2023-04-08 13:50:55,602 - deep_learning - INFO - DilutedEPS:0
+2023-04-08 13:52:43,819 - deep_learning - INFO - EPS:0
+2023-04-08 13:54:29,796 - deep_learning - INFO - CashEquivalentPS:0
+2023-04-08 13:56:03,400 - deep_learning - INFO - DividendPS:0
+2023-04-08 13:57:37,487 - deep_learning - INFO - EPSTTM:0
+2023-04-08 13:59:13,108 - deep_learning - INFO - NetAssetPS:0
+2023-04-08 14:00:51,237 - deep_learning - INFO - TORPS:0
+2023-04-08 14:02:28,543 - deep_learning - INFO - TORPSLatest:0
+2023-04-08 14:04:03,572 - deep_learning - INFO - OperatingRevenuePS:0
+2023-04-08 14:05:38,717 - deep_learning - INFO - OperatingRevenuePSLatest:0
+2023-04-08 14:07:14,608 - deep_learning - INFO - OperatingProfitPS:0
+2023-04-08 14:08:50,560 - deep_learning - INFO - OperatingProfitPSLatest:0
+2023-04-08 14:10:28,130 - deep_learning - INFO - CapitalSurplusFundPS:0
+2023-04-08 14:12:06,431 - deep_learning - INFO - SurplusReserveFundPS:0
+2023-04-08 14:13:44,021 - deep_learning - INFO - UndividedProfitPS:0
+2023-04-08 14:15:28,940 - deep_learning - INFO - RetainedEarningsPS:0
+2023-04-08 14:17:08,503 - deep_learning - INFO - OperCashFlowPS:0
+2023-04-08 14:18:47,756 - deep_learning - INFO - CashFlowPS:0
+2023-04-08 14:20:32,250 - deep_learning - INFO - EnterpriseFCFPS:0
+2023-04-08 14:22:15,368 - deep_learning - INFO - ShareholderFCFPS:0
+2023-04-08 14:23:58,559 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-08 14:24:04,071 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-08 14:24:10,159 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-08 14:24:16,686 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-08 14:24:23,797 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-08 14:24:34,549 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-08 14:25:18,926 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-08 14:25:51,560 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-08 14:26:04,425 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-08 14:26:24,613 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-08 14:26:41,031 - deep_learning - INFO - success to get momentum_factor_list factor ,shape = (7871399, 67)
+2023-04-08 14:26:58,383 - deep_learning - INFO - REVS10:61
+2023-04-08 14:28:10,979 - deep_learning - ERROR - max_loss (35.0%) exceeded 100.0%, consider increasing it.
+2023-04-08 14:28:25,177 - deep_learning - INFO - REVS20:64
+2023-04-08 14:29:28,616 - deep_learning - ERROR - max_loss (35.0%) exceeded 100.0%, consider increasing it.
+2023-04-08 14:29:42,688 - deep_learning - INFO - REVS5:64
+2023-04-08 14:30:37,006 - deep_learning - ERROR - max_loss (35.0%) exceeded 100.0%, consider increasing it.
+2023-04-08 14:30:51,072 - deep_learning - INFO - RSTR12:61
+2023-04-08 14:31:44,905 - deep_learning - ERROR - max_loss (35.0%) exceeded 100.0%, consider increasing it.
+2023-04-08 14:31:58,945 - deep_learning - INFO - RSTR24:61
+2023-04-08 14:33:00,055 - deep_learning - ERROR - max_loss (35.0%) exceeded 100.0%, consider increasing it.
+2023-04-08 14:33:14,562 - deep_learning - INFO - EARNMOM:0
+2023-04-08 14:34:58,399 - deep_learning - INFO - FiftyTwoWeekHigh:62
+2023-04-08 14:35:59,662 - deep_learning - ERROR - max_loss (35.0%) exceeded 100.0%, consider increasing it.
+2023-04-08 14:36:14,837 - deep_learning - INFO - BIAS10:64
+2023-04-08 14:37:21,800 - deep_learning - ERROR - max_loss (35.0%) exceeded 100.0%, consider increasing it.
+2023-04-08 14:37:36,880 - deep_learning - INFO - BIAS20:64
+2023-04-08 14:38:47,757 - deep_learning - ERROR - max_loss (35.0%) exceeded 100.0%, consider increasing it.
+2023-04-08 14:39:03,755 - deep_learning - INFO - BIAS5:64
+2023-04-08 14:40:05,921 - deep_learning - ERROR - max_loss (35.0%) exceeded 100.0%, consider increasing it.
+2023-04-08 14:40:20,800 - deep_learning - INFO - BIAS60:64
+2023-04-08 14:41:22,834 - deep_learning - ERROR - max_loss (35.0%) exceeded 100.0%, consider increasing it.
+2023-04-08 14:41:38,410 - deep_learning - INFO - CCI10:61
+2023-04-08 14:42:36,823 - deep_learning - ERROR - max_loss (35.0%) exceeded 100.0%, consider increasing it.
+2023-04-08 14:42:51,428 - deep_learning - INFO - CCI20:61
+2023-04-08 14:43:52,221 - deep_learning - ERROR - max_loss (35.0%) exceeded 100.0%, consider increasing it.
+2023-04-08 14:44:07,182 - deep_learning - INFO - CCI5:61
+2023-04-08 14:45:05,886 - deep_learning - ERROR - max_loss (35.0%) exceeded 100.0%, consider increasing it.
+2023-04-08 14:45:20,606 - deep_learning - INFO - CCI88:61
+2023-04-08 14:46:17,370 - deep_learning - ERROR - max_loss (35.0%) exceeded 100.0%, consider increasing it.
+2023-04-08 14:46:32,439 - deep_learning - INFO - ROC6:61
+2023-04-08 14:53:07,494 - deep_learning - INFO - mkt_cap:0
+2023-04-08 14:53:24,490 - deep_learning - INFO - close:0
+2023-04-08 14:53:32,151 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-08 14:53:37,414 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-08 14:53:43,240 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-08 14:53:49,455 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-08 14:53:56,550 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-08 14:54:08,497 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-08 14:54:19,662 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-08 14:54:30,342 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-08 14:54:41,035 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-08 14:55:44,011 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-08 14:56:25,045 - deep_learning - INFO - success to get momentum_factor_list factor ,shape = (7871399, 67)
+2023-04-08 15:11:40,316 - deep_learning - INFO - REVS10:0
+2023-04-08 15:15:49,101 - deep_learning - INFO - mkt_cap:0
+2023-04-08 15:16:19,347 - deep_learning - INFO - mkt_cap:0
+2023-04-08 15:16:35,639 - deep_learning - INFO - close:0
+2023-04-08 15:16:43,082 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-08 15:16:48,229 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-08 15:16:53,834 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-08 15:16:59,900 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-08 15:17:06,855 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-08 15:17:16,344 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-08 15:17:27,928 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-08 15:17:37,937 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-08 15:17:48,124 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-08 15:18:01,745 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-08 15:18:12,362 - deep_learning - INFO - success to get momentum_factor_list factor ,shape = (7871399, 67)
+2023-04-08 15:19:28,823 - deep_learning - INFO - REVS10:0
+2023-04-08 15:24:54,123 - deep_learning - INFO - mkt_cap:0
+2023-04-08 15:25:10,137 - deep_learning - INFO - close:0
+2023-04-08 15:25:17,449 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-08 15:25:22,319 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-08 15:25:27,790 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-08 15:25:33,665 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-08 15:25:40,338 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-08 15:25:49,505 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-08 15:25:59,530 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-08 15:26:08,880 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-08 15:26:18,928 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-08 15:26:33,164 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-08 15:26:44,639 - deep_learning - INFO - success to get expectation_factor_list factor ,shape = (7871399, 48)
+2023-04-08 15:30:10,436 - deep_learning - INFO - FY12P:95337
+2023-04-08 15:34:20,118 - deep_learning - INFO - mkt_cap:0
+2023-04-08 15:34:38,142 - deep_learning - INFO - close:0
+2023-04-08 15:34:45,360 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-08 15:34:50,122 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-08 15:34:55,473 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-08 15:35:01,253 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-08 15:35:07,868 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-08 15:35:17,530 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-08 15:35:27,876 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-08 15:35:37,648 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-08 15:35:48,308 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-08 15:36:03,734 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-08 15:36:15,202 - deep_learning - INFO - success to get expectation_factor_list factor ,shape = (7871399, 48)
+2023-04-08 15:36:38,899 - deep_learning - INFO - FY12P:0
+2023-04-08 15:38:25,607 - deep_learning - INFO - DAREV:0
+2023-04-08 15:39:30,205 - deep_learning - INFO - mkt_cap:0
+2023-04-08 15:39:48,115 - deep_learning - INFO - close:0
+2023-04-08 15:39:55,361 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-08 15:40:00,159 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-08 15:40:05,453 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-08 15:40:11,213 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-08 15:40:17,814 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-08 15:40:26,723 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-08 15:40:36,674 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-08 15:40:46,071 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-08 15:40:55,939 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-08 15:41:25,174 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-08 15:42:09,726 - deep_learning - INFO - success to get moneyflow_factor_list factor ,shape = (7871399, 53)
+2023-04-08 15:42:34,609 - deep_learning - INFO - NET_INFLOW_RATE_VOLUME:0
+2023-04-08 15:44:35,767 - deep_learning - INFO - S_MFD_INFLOW_OPENVOLUME:0
+2023-04-08 15:46:29,241 - deep_learning - INFO - OPEN_NET_INFLOW_RATE_VOLUME:0
+2023-04-08 15:48:19,264 - deep_learning - INFO - S_MFD_INFLOW_CLOSEVOLUME:0
+2023-04-08 15:50:08,640 - deep_learning - INFO - CLOSE_NET_INFLOW_RATE_VOLUME:0
+2023-04-08 15:52:00,814 - deep_learning - INFO - S_MFD_INFLOW:0
+2023-04-08 15:53:58,951 - deep_learning - INFO - NET_INFLOW_RATE_VALUE:0
+2023-04-08 15:55:52,228 - deep_learning - INFO - S_MFD_INFLOW_OPEN:0
+2023-04-08 15:57:42,109 - deep_learning - INFO - OPEN_NET_INFLOW_RATE_VALUE:0
+2023-04-08 15:59:37,547 - deep_learning - INFO - S_MFD_INFLOW_CLOSE:0
+2023-04-08 16:01:32,898 - deep_learning - INFO - CLOSE_NET_INFLOW_RATE_VALUE:0
+2023-04-08 16:02:59,217 - deep_learning - ERROR - 缺失值数大于20%，剔除该因子:TOT_VOLUME_BID
+2023-04-08 16:02:59,260 - deep_learning - ERROR - 缺失值数大于20%，剔除该因子:TOT_VOLUME_ASK
+2023-04-08 16:03:22,281 - deep_learning - INFO - MONEYFLOW_PCT_VOLUME:0
+2023-04-08 16:05:07,752 - deep_learning - INFO - OPEN_MONEYFLOW_PCT_VOLUME:0
+2023-04-08 16:06:57,745 - deep_learning - INFO - CLOSE_MONEYFLOW_PCT_VOLUME:0
+2023-04-08 16:08:52,280 - deep_learning - INFO - MONEYFLOW_PCT_VALUE:0
+2023-04-08 16:10:40,743 - deep_learning - INFO - OPEN_MONEYFLOW_PCT_VALUE:0
+2023-04-08 16:12:30,265 - deep_learning - INFO - CLOSE_MONEYFLOW_PCT_VALUE:0
+2023-04-08 16:14:21,636 - deep_learning - INFO - S_MFD_INFLOWVOLUME_LARGE_ORDER:0
+2023-04-08 16:16:14,813 - deep_learning - INFO - NET_INFLOW_RATE_VOLUME_L:0
+2023-04-08 16:18:01,483 - deep_learning - INFO - S_MFD_INFLOW_LARGE_ORDER:0
+2023-04-08 16:19:53,155 - deep_learning - INFO - NET_INFLOW_RATE_VALUE_L:0
+2023-04-08 16:21:49,337 - deep_learning - INFO - MONEYFLOW_PCT_VOLUME_L:0
+2023-04-08 16:23:45,250 - deep_learning - INFO - MONEYFLOW_PCT_VALUE_L:0
+2023-04-08 16:25:40,172 - deep_learning - INFO - S_MFD_INFLOW_OPENVOLUME_L:0
+2023-04-08 16:27:31,233 - deep_learning - INFO - OPEN_NET_INFLOW_RATE_VOLUME_L:0
+2023-04-08 16:29:34,836 - deep_learning - INFO - S_MFD_INFLOW_OPEN_LARGE_ORDER:0
+2023-04-08 16:31:33,583 - deep_learning - INFO - OPEN_NET_INFLOW_RATE_VALUE_L:0
+2023-04-08 16:33:25,206 - deep_learning - INFO - OPEN_MONEYFLOW_PCT_VOLUME_L:0
+2023-04-08 16:35:14,853 - deep_learning - INFO - OPEN_MONEYFLOW_PCT_VALUE_L:0
+2023-04-08 16:37:04,033 - deep_learning - INFO - S_MFD_INFLOW_CLOSEVOLUME_L:0
+2023-04-08 16:38:53,104 - deep_learning - INFO - CLOSE_NET_INFLOW_RATE_VOLUME_L:0
+2023-04-08 16:40:42,295 - deep_learning - INFO - S_MFD_INFLOW_CLOSE_LARGE_ORDER:0
+2023-04-08 16:42:31,821 - deep_learning - INFO - CLOSE_NET_INFLOW_RATE_VALU_L:0
+2023-04-08 16:44:20,956 - deep_learning - INFO - CLOSE_MONEYFLOW_PCT_VOLUME_L:0
+2023-04-08 16:46:10,505 - deep_learning - INFO - CLOSE_MONEYFLOW_PCT_VALUE_L:0
+2023-04-08 16:47:55,920 - deep_learning - INFO - BUY_VALUE_EXLARGE_ORDER_ACT:0
+2023-04-08 16:49:40,513 - deep_learning - INFO - SELL_VALUE_EXLARGE_ORDER_ACT:0
+2023-04-08 16:51:25,238 - deep_learning - INFO - BUY_VALUE_LARGE_ORDER_ACT:0
+2023-04-08 16:53:10,599 - deep_learning - INFO - SELL_VALUE_LARGE_ORDER_ACT:0
+2023-04-08 16:54:55,713 - deep_learning - INFO - BUY_VALUE_MED_ORDER_ACT:0
+2023-04-08 16:56:40,425 - deep_learning - INFO - SELL_VALUE_MED_ORDER_ACT:0
+2023-04-08 16:58:25,142 - deep_learning - INFO - BUY_VALUE_SMALL_ORDER_ACT:0
+2023-04-08 17:00:10,545 - deep_learning - INFO - SELL_VALUE_SMALL_ORDER_ACT:0
+2023-04-08 17:01:56,187 - deep_learning - INFO - BUY_VOLUME_EXLARGE_ORDER_ACT:0
+2023-04-08 17:03:41,024 - deep_learning - INFO - SELL_VOLUME_EXLARGE_ORDER_ACT:0
+2023-04-08 17:05:25,810 - deep_learning - INFO - BUY_VOLUME_LARGE_ORDER_ACT:0
+2023-04-08 17:07:11,149 - deep_learning - INFO - SELL_VOLUME_LARGE_ORDER_ACT:0
+2023-04-08 17:08:56,270 - deep_learning - INFO - BUY_VOLUME_MED_ORDER_ACT:0
+2023-04-08 17:10:42,301 - deep_learning - INFO - SELL_VOLUME_MED_ORDER_ACT:0
+2023-04-08 17:12:32,651 - deep_learning - INFO - BUY_VOLUME_SMALL_ORDER_ACT:0
+2023-04-08 17:14:27,351 - deep_learning - INFO - SELL_VOLUME_SMALL_ORDER_ACT:0
+2023-04-08 17:51:20,521 - deep_learning - INFO - mkt_cap:0
+2023-04-08 17:51:38,609 - deep_learning - INFO - close:0
+2023-04-08 17:51:45,985 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-08 17:51:50,934 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-08 17:51:56,361 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-08 17:52:02,228 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-08 17:52:08,817 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-08 17:52:19,844 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-08 17:52:29,113 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-08 17:52:38,637 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-08 17:52:48,491 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-08 17:53:00,315 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-08 17:53:08,992 - deep_learning - INFO - success to get value_factor_list factor ,shape = (7871399, 24)
+2023-04-08 17:53:35,570 - deep_learning - INFO - CTOP:0
+2023-04-08 17:55:27,221 - deep_learning - INFO - CTP5:0
+2023-04-08 17:57:16,293 - deep_learning - INFO - ETOP:0
+2023-04-08 17:59:06,787 - deep_learning - INFO - ETP5:0
+2023-04-08 18:00:55,490 - deep_learning - INFO - LCAP:0
+2023-04-08 18:02:43,884 - deep_learning - INFO - LFLO:0
+2023-04-08 18:04:35,049 - deep_learning - INFO - PB:0
+2023-04-08 18:06:30,811 - deep_learning - INFO - PCF:0
+2023-04-08 18:08:19,693 - deep_learning - INFO - PE:0
+2023-04-08 18:10:08,167 - deep_learning - INFO - PS:0
+2023-04-08 18:11:57,007 - deep_learning - INFO - TA2EV:0
+2023-04-08 18:13:46,310 - deep_learning - INFO - PEG3Y:0
+2023-04-08 18:15:37,209 - deep_learning - INFO - PEG5Y:0
+2023-04-08 18:17:28,306 - deep_learning - INFO - PEIndu:0
+2023-04-08 18:19:18,020 - deep_learning - INFO - PBIndu:0
+2023-04-08 18:21:07,237 - deep_learning - INFO - PSIndu:0
+2023-04-08 18:22:31,564 - deep_learning - ERROR - 缺失值数大于20%，剔除该因子:PCFIndu
+2023-04-08 18:22:56,532 - deep_learning - INFO - StaticPE:0
+2023-04-08 18:24:45,628 - deep_learning - INFO - ForwardPE:0
+2023-04-08 18:26:33,406 - deep_learning - INFO - MktValue:0
+2023-04-08 18:28:22,799 - deep_learning - INFO - NegMktValue:0
+2023-04-08 18:29:45,459 - deep_learning - ERROR - 缺失值数大于20%，剔除该因子:EPIBS
+2023-04-08 18:30:10,496 - deep_learning - INFO - CETOP:0
+2023-04-08 18:31:58,320 - deep_learning - INFO - NLSIZE:0
+2023-04-08 18:33:24,663 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-08 18:33:29,630 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-08 18:33:35,119 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-08 18:33:40,988 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-08 18:33:47,631 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-08 18:33:56,793 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-08 18:34:06,666 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-08 18:34:16,476 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-08 18:34:28,129 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-08 18:34:41,702 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-08 18:34:51,184 - deep_learning - INFO - success to get growth_factor_list factor ,shape = (7871399, 23)
+2023-04-08 18:35:06,597 - deep_learning - INFO - EGRO:0
+2023-04-08 18:36:49,772 - deep_learning - INFO - FinancingCashGrowRate:0
+2023-04-08 18:38:34,310 - deep_learning - INFO - InvestCashGrowRate:0
+2023-04-08 18:40:11,051 - deep_learning - INFO - NetAssetGrowRate:0
+2023-04-08 18:41:47,279 - deep_learning - INFO - NetProfitGrowRate:0
+2023-04-08 18:43:24,164 - deep_learning - INFO - NPParentCompanyGrowRate:0
+2023-04-08 18:44:59,690 - deep_learning - INFO - OperatingProfitGrowRate:0
+2023-04-08 18:46:35,867 - deep_learning - INFO - OperatingRevenueGrowRate:0
+2023-04-08 18:48:11,303 - deep_learning - INFO - OperCashGrowRate:0
+2023-04-08 18:49:47,014 - deep_learning - INFO - SUE:0
+2023-04-08 18:51:22,626 - deep_learning - INFO - TotalAssetGrowRate:0
+2023-04-08 18:52:58,080 - deep_learning - INFO - TotalProfitGrowRate:0
+2023-04-08 18:54:19,357 - deep_learning - ERROR - 缺失值数大于20%，剔除该因子:FEARNG
+2023-04-08 18:54:19,372 - deep_learning - ERROR - 缺失值数大于20%，剔除该因子:FSALESG
+2023-04-08 18:54:33,444 - deep_learning - INFO - SUOI:0
+2023-04-08 18:56:09,124 - deep_learning - INFO - NetProfitGrowRate3Y:0
+2023-04-08 18:57:45,367 - deep_learning - INFO - NetProfitGrowRate5Y:0
+2023-04-08 18:59:20,889 - deep_learning - INFO - OperatingRevenueGrowRate3Y:0
+2023-04-08 19:00:57,276 - deep_learning - INFO - OperatingRevenueGrowRate5Y:0
+2023-04-08 19:02:32,899 - deep_learning - INFO - NetCashFlowGrowRate:0
+2023-04-08 19:04:08,799 - deep_learning - INFO - NPParentCompanyCutYOY:0
+2023-04-08 19:05:44,565 - deep_learning - INFO - SGRO:0
+2023-04-08 19:07:06,493 - deep_learning - ERROR - 缺失值数大于20%，剔除该因子:EgibsLong
+2023-04-08 19:07:10,626 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-08 19:07:15,713 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-08 19:07:21,584 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-08 19:07:27,823 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-08 19:07:34,968 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-08 19:07:44,808 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-08 19:07:57,805 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-08 19:08:09,711 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-08 19:08:24,152 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-08 19:09:06,259 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-08 19:10:28,108 - deep_learning - INFO - success to get financial_factor_list factor ,shape = (7871399, 135)
+2023-04-08 19:10:42,520 - deep_learning - INFO - ASSI:0
+2023-04-08 19:13:27,789 - deep_learning - INFO - TotalAssets:0
+2023-04-08 19:15:26,149 - deep_learning - INFO - TEAP:0
+2023-04-08 19:17:09,666 - deep_learning - INFO - NIAP:0
+2023-04-08 19:18:56,044 - deep_learning - INFO - TotalFixedAssets:0
+2023-04-08 19:20:32,791 - deep_learning - INFO - IntFreeCL:0
+2023-04-08 19:22:10,041 - deep_learning - INFO - IntFreeNCL:0
+2023-04-08 19:23:46,697 - deep_learning - INFO - IntCL:0
+2023-04-08 19:25:23,069 - deep_learning - INFO - IntDebt:0
+2023-04-08 19:26:59,041 - deep_learning - INFO - NetDebt:0
+2023-04-08 19:28:35,386 - deep_learning - INFO - NetTangibleAssets:0
+2023-04-08 19:30:11,272 - deep_learning - INFO - WorkingCapital:0
+2023-04-08 19:31:46,767 - deep_learning - INFO - NetWorkingCapital:0
+2023-04-08 19:33:22,332 - deep_learning - INFO - TotalPaidinCapital:0
+2023-04-08 19:34:57,894 - deep_learning - INFO - RetainedEarnings:0
+2023-04-08 19:36:33,831 - deep_learning - INFO - OperateNetIncome:0
+2023-04-08 19:38:10,183 - deep_learning - INFO - ValueChgProfit:0
+2023-04-08 19:39:46,251 - deep_learning - INFO - NetIntExpense:0
+2023-04-08 19:41:22,942 - deep_learning - INFO - EBIT:0
+2023-04-08 19:42:59,806 - deep_learning - INFO - EBITDA:0
+2023-04-08 19:44:35,608 - deep_learning - INFO - EBIAT:0
+2023-04-08 19:46:11,452 - deep_learning - INFO - NRProfitLoss:0
+2023-04-08 19:47:47,000 - deep_learning - INFO - NIAPCut:0
+2023-04-08 19:49:23,071 - deep_learning - INFO - FCFF:0
+2023-04-08 19:50:59,174 - deep_learning - INFO - FCFE:0
+2023-04-08 19:52:35,235 - deep_learning - INFO - DA:0
+2023-04-08 19:54:11,632 - deep_learning - INFO - TRevenueTTM:0
+2023-04-08 19:55:47,724 - deep_learning - INFO - TCostTTM:0
+2023-04-08 19:57:24,368 - deep_learning - INFO - RevenueTTM:0
+2023-04-08 19:59:01,237 - deep_learning - INFO - CostTTM:0
+2023-04-08 20:00:37,958 - deep_learning - INFO - GrossProfitTTM:0
+2023-04-08 20:02:15,378 - deep_learning - INFO - SalesExpenseTTM:0
+2023-04-08 20:03:56,552 - deep_learning - INFO - AdminExpenseTTM:0
+2023-04-08 20:05:37,418 - deep_learning - INFO - FinanExpenseTTM:0
+2023-04-08 20:07:21,227 - deep_learning - INFO - AssetImpairLossTTM:0
+2023-04-08 20:09:08,703 - deep_learning - INFO - NPFromOperatingTTM:0
+2023-04-08 20:10:48,243 - deep_learning - INFO - NPFromValueChgTTM:0
+2023-04-08 20:12:23,997 - deep_learning - INFO - OperateProfitTTM:0
+2023-04-08 20:14:00,808 - deep_learning - INFO - NonOperatingNPTTM:0
+2023-04-08 20:15:37,115 - deep_learning - INFO - TProfitTTM:0
+2023-04-08 20:17:14,225 - deep_learning - INFO - NetProfitTTM:0
+2023-04-08 20:18:50,598 - deep_learning - INFO - NetProfitAPTTM:0
+2023-04-08 20:20:27,327 - deep_learning - INFO - SaleServiceRenderCashTTM:0
+2023-04-08 20:22:04,088 - deep_learning - INFO - NetOperateCFTTM:0
+2023-04-08 20:23:41,058 - deep_learning - INFO - NetInvestCFTTM:0
+2023-04-08 20:25:19,279 - deep_learning - INFO - NetFinanceCFTTM:0
+2023-04-08 20:26:56,060 - deep_learning - INFO - GrossProfit:0
+2023-04-08 20:28:32,699 - deep_learning - INFO - AccountsPayablesTDays:0
+2023-04-08 20:30:09,457 - deep_learning - INFO - AccountsPayablesTRate:0
+2023-04-08 20:31:46,031 - deep_learning - INFO - AdminiExpenseRate:0
+2023-04-08 20:33:23,021 - deep_learning - INFO - ARTDays:0
+2023-04-08 20:34:59,307 - deep_learning - INFO - ARTRate:0
+2023-04-08 20:36:44,400 - deep_learning - INFO - BLEV:0
+2023-04-08 20:38:29,941 - deep_learning - INFO - BondsPayableToAsset:0
+2023-04-08 20:39:30,777 - deep_learning - ERROR - max_loss (35.0%) exceeded 100.0%, consider increasing it.
+2023-04-08 20:39:44,464 - deep_learning - INFO - CashRateOfSales:0
+2023-04-08 20:41:21,242 - deep_learning - INFO - CashToCurrentLiability:0
+2023-04-08 20:42:57,330 - deep_learning - INFO - CurrentAssetsRatio:0
+2023-04-08 20:44:34,217 - deep_learning - INFO - CurrentAssetsTRate:0
+2023-04-08 20:46:10,428 - deep_learning - INFO - CurrentRatio:0
+2023-04-08 20:47:46,552 - deep_learning - INFO - DebtEquityRatio:0
+2023-04-08 20:49:23,037 - deep_learning - INFO - DebtsAssetRatio:0
+2023-04-08 20:50:59,570 - deep_learning - INFO - EBITToTOR:0
+2023-04-08 20:52:36,934 - deep_learning - INFO - EquityFixedAssetRatio:0
+2023-04-08 20:54:13,088 - deep_learning - INFO - EquityToAsset:0
+2023-04-08 20:55:49,852 - deep_learning - INFO - EquityTRate:0
+2023-04-08 20:57:26,947 - deep_learning - INFO - FinancialExpenseRate:0
+2023-04-08 20:59:04,249 - deep_learning - INFO - FixAssetRatio:0
+2023-04-08 21:00:41,410 - deep_learning - INFO - FixedAssetsTRate:0
+2023-04-08 21:02:18,966 - deep_learning - INFO - GrossIncomeRatio:0
+2023-04-08 21:03:55,487 - deep_learning - INFO - IntangibleAssetRatio:0
+2023-04-08 21:05:32,945 - deep_learning - INFO - InventoryTDays:0
+2023-04-08 21:07:09,646 - deep_learning - INFO - InventoryTRate:0
+2023-04-08 21:08:46,532 - deep_learning - INFO - LongDebtToAsset:0
+2023-04-08 21:10:23,666 - deep_learning - INFO - LongDebtToWorkingCapital:0
+2023-04-08 21:12:02,389 - deep_learning - INFO - LongTermDebtToAsset:0
+2023-04-08 21:13:39,988 - deep_learning - INFO - MLEV:0
+2023-04-08 21:15:17,502 - deep_learning - INFO - NetProfitRatio:0
+2023-04-08 21:16:54,777 - deep_learning - INFO - NOCFToOperatingNI:0
+2023-04-08 21:18:34,534 - deep_learning - INFO - NonCurrentAssetsRatio:0
+2023-04-08 21:20:16,927 - deep_learning - INFO - NPToTOR:0
+2023-04-08 21:22:02,561 - deep_learning - INFO - OperatingExpenseRate:0
+2023-04-08 21:23:51,392 - deep_learning - INFO - OperatingProfitRatio:0
+2023-04-08 21:25:28,483 - deep_learning - INFO - OperatingProfitToTOR:0
+2023-04-08 21:27:04,951 - deep_learning - INFO - OperCashInToCurrentLiability:0
+2023-04-08 21:28:42,521 - deep_learning - INFO - QuickRatio:0
+2023-04-08 21:30:19,573 - deep_learning - INFO - ROA:0
+2023-04-08 21:31:56,714 - deep_learning - INFO - ROA5:0
+2023-04-08 21:33:34,004 - deep_learning - INFO - ROE:0
+2023-04-08 21:35:10,344 - deep_learning - INFO - ROE5:0
+2023-04-08 21:36:46,475 - deep_learning - INFO - SalesCostRatio:0
+2023-04-08 21:38:23,550 - deep_learning - INFO - SaleServiceCashToOR:0
+2023-04-08 21:39:59,148 - deep_learning - INFO - TaxRatio:0
+2023-04-08 21:41:35,866 - deep_learning - INFO - TotalAssetsTRate:0
+2023-04-08 21:43:15,890 - deep_learning - INFO - TotalProfitCostRatio:0
+2023-04-08 21:45:05,496 - deep_learning - INFO - CFO2EV:0
+2023-04-08 21:46:46,056 - deep_learning - INFO - ACCA:0
+2023-04-08 21:48:23,199 - deep_learning - INFO - DEGM:0
+2023-04-08 21:49:59,828 - deep_learning - INFO - CashDividendCover:0
+2023-04-08 21:51:37,195 - deep_learning - INFO - DividendCover:0
+2023-04-08 21:53:00,351 - deep_learning - ERROR - 缺失值数大于20%，剔除该因子:DividendPaidRatio
+2023-04-08 21:53:00,501 - deep_learning - ERROR - 缺失值数大于20%，剔除该因子:RetainedEarningRatio
+2023-04-08 21:53:14,201 - deep_learning - INFO - NetNonOIToTP:0
+2023-04-08 21:54:51,028 - deep_learning - INFO - NetNonOIToTPLatest:0
+2023-04-08 21:56:27,466 - deep_learning - INFO - PeriodCostsRate:0
+2023-04-08 21:58:04,773 - deep_learning - INFO - InterestCover:0
+2023-04-08 21:59:40,761 - deep_learning - INFO - NetProfitCashCover:0
+2023-04-08 22:01:17,429 - deep_learning - INFO - OperCashInToAsset:0
+2023-04-08 22:02:53,728 - deep_learning - INFO - CashConversionCycle:0
+2023-04-08 22:04:31,316 - deep_learning - INFO - OperatingCycle:0
+2023-04-08 22:06:07,583 - deep_learning - INFO - ROEDiluted:0
+2023-04-08 22:07:44,192 - deep_learning - INFO - ROEAvg:0
+2023-04-08 22:09:24,237 - deep_learning - INFO - ROEWeighted:0
+2023-04-08 22:11:14,410 - deep_learning - INFO - ROECut:0
+2023-04-08 22:13:02,343 - deep_learning - INFO - ROECutWeighted:0
+2023-04-08 22:14:47,248 - deep_learning - INFO - ROIC:0
+2023-04-08 22:16:30,200 - deep_learning - INFO - ROAEBIT:0
+2023-04-08 22:18:11,251 - deep_learning - INFO - ROAEBITTTM:0
+2023-04-08 22:20:06,729 - deep_learning - INFO - OperatingNIToTP:0
+2023-04-08 22:21:48,306 - deep_learning - INFO - OperatingNIToTPLatest:0
+2023-04-08 22:23:15,661 - deep_learning - ERROR - 缺失值数大于20%，剔除该因子:InvestRAssociatesToTP
+2023-04-08 22:23:15,827 - deep_learning - ERROR - 缺失值数大于20%，剔除该因子:InvestRAssociatesToTPLatest
+2023-04-08 22:23:29,632 - deep_learning - INFO - NPCutToNP:0
+2023-04-08 22:25:09,467 - deep_learning - INFO - SuperQuickRatio:0
+2023-04-08 22:26:49,857 - deep_learning - INFO - TSEPToInterestBearDebt:0
+2023-04-08 22:28:28,230 - deep_learning - INFO - DebtTangibleEquityRatio:0
+2023-04-08 22:30:07,246 - deep_learning - INFO - TangibleAToInteBearDebt:0
+2023-04-08 22:31:45,060 - deep_learning - INFO - TangibleAToNetDebt:0
+2023-04-08 22:33:23,238 - deep_learning - INFO - NOCFToTLiability:0
+2023-04-08 22:35:00,981 - deep_learning - INFO - NOCFToInterestBearDebt:0
+2023-04-08 22:36:38,380 - deep_learning - INFO - NOCFToNetDebt:0
+2023-04-08 22:38:17,824 - deep_learning - INFO - TSEPToTotalCapital:0
+2023-04-08 22:39:56,575 - deep_learning - INFO - InteBearDebtToTotalCapital:0
+2023-04-08 22:41:37,243 - deep_learning - INFO - SalesServiceCashToORLatest:0
+2023-04-08 22:43:23,038 - deep_learning - INFO - CashRateOfSalesLatest:0
+2023-04-08 22:45:09,497 - deep_learning - INFO - NOCFToOperatingNILatest:0
+2023-04-08 22:46:36,978 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-08 22:46:42,044 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-08 22:46:47,579 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-08 22:46:53,447 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-08 22:47:00,054 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-08 22:47:09,188 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-08 22:47:18,602 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-08 22:47:28,357 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-08 22:47:39,901 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-08 22:47:53,562 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-08 22:48:00,826 - deep_learning - INFO - success to get psi_factor_list factor ,shape = (7871399, 20)
+2023-04-08 22:48:15,723 - deep_learning - INFO - DilutedEPS:0
+2023-04-08 22:49:56,685 - deep_learning - INFO - EPS:0
+2023-04-08 22:51:32,668 - deep_learning - INFO - CashEquivalentPS:0
+2023-04-08 22:53:08,453 - deep_learning - INFO - DividendPS:0
+2023-04-08 22:54:44,213 - deep_learning - INFO - EPSTTM:0
+2023-04-08 22:56:19,637 - deep_learning - INFO - NetAssetPS:0
+2023-04-08 22:57:55,572 - deep_learning - INFO - TORPS:0
+2023-04-08 22:59:31,241 - deep_learning - INFO - TORPSLatest:0
+2023-04-08 23:01:07,032 - deep_learning - INFO - OperatingRevenuePS:0
+2023-04-08 23:02:43,173 - deep_learning - INFO - OperatingRevenuePSLatest:0
+2023-04-08 23:04:21,246 - deep_learning - INFO - OperatingProfitPS:0
+2023-04-08 23:06:04,715 - deep_learning - INFO - OperatingProfitPSLatest:0
+2023-04-08 23:07:41,129 - deep_learning - INFO - CapitalSurplusFundPS:0
+2023-04-08 23:09:17,560 - deep_learning - INFO - SurplusReserveFundPS:0
+2023-04-08 23:10:56,508 - deep_learning - INFO - UndividedProfitPS:0
+2023-04-08 23:12:35,953 - deep_learning - INFO - RetainedEarningsPS:0
+2023-04-08 23:14:12,878 - deep_learning - INFO - OperCashFlowPS:0
+2023-04-08 23:15:51,513 - deep_learning - INFO - CashFlowPS:0
+2023-04-08 23:17:30,529 - deep_learning - INFO - EnterpriseFCFPS:0
+2023-04-08 23:19:12,584 - deep_learning - INFO - ShareholderFCFPS:0
+2023-04-08 23:20:40,395 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-08 23:20:45,443 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-08 23:20:51,034 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-08 23:20:57,077 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-08 23:21:03,934 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-08 23:21:13,357 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-08 23:21:24,889 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-08 23:21:35,139 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-08 23:21:48,499 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-08 23:22:03,600 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-08 23:22:24,283 - deep_learning - INFO - success to get momentum_factor_list factor ,shape = (7871399, 67)
+2023-04-08 23:22:49,988 - deep_learning - INFO - REVS10:0
+2023-04-08 23:24:52,513 - deep_learning - INFO - REVS20:0
+2023-04-08 23:26:41,183 - deep_learning - INFO - REVS5:0
+2023-04-08 23:28:26,731 - deep_learning - INFO - RSTR12:0
+2023-04-08 23:30:11,065 - deep_learning - INFO - RSTR24:0
+2023-04-08 23:31:55,128 - deep_learning - INFO - EARNMOM:0
+2023-04-08 23:33:39,892 - deep_learning - INFO - FiftyTwoWeekHigh:0
+2023-04-08 23:35:23,906 - deep_learning - INFO - BIAS10:0
+2023-04-08 23:37:08,161 - deep_learning - INFO - BIAS20:0
+2023-04-08 23:38:52,357 - deep_learning - INFO - BIAS5:0
+2023-04-08 23:40:36,769 - deep_learning - INFO - BIAS60:0
+2023-04-08 23:42:21,323 - deep_learning - INFO - CCI10:0
+2023-04-08 23:44:08,793 - deep_learning - INFO - CCI20:0
+2023-04-08 23:45:58,129 - deep_learning - INFO - CCI5:0
+2023-04-08 23:47:46,148 - deep_learning - INFO - CCI88:0
+2023-04-08 23:49:30,751 - deep_learning - INFO - ROC6:0
+2023-04-08 23:51:15,406 - deep_learning - INFO - ROC20:0
+2023-04-08 23:52:59,760 - deep_learning - INFO - SRMI:0
+2023-04-08 23:54:44,340 - deep_learning - INFO - ChandeSD:0
+2023-04-08 23:56:29,258 - deep_learning - INFO - ChandeSU:0
+2023-04-08 23:58:13,427 - deep_learning - INFO - CMO:0
+2023-04-08 23:59:57,682 - deep_learning - INFO - ARC:0
+2023-04-09 00:01:42,598 - deep_learning - INFO - AD:0
+2023-04-09 00:03:26,942 - deep_learning - INFO - AD20:0
+2023-04-09 00:05:12,132 - deep_learning - INFO - AD6:0
+2023-04-09 00:06:57,924 - deep_learning - INFO - CoppockCurve:0
+2023-04-09 00:08:42,715 - deep_learning - INFO - Aroon:0
+2023-04-09 00:10:27,542 - deep_learning - INFO - AroonDown:0
+2023-04-09 00:12:12,711 - deep_learning - INFO - AroonUp:0
+2023-04-09 00:13:57,758 - deep_learning - INFO - DEA:0
+2023-04-09 00:15:42,728 - deep_learning - INFO - DIFF:0
+2023-04-09 00:17:27,570 - deep_learning - INFO - DDI:0
+2023-04-09 00:19:11,812 - deep_learning - INFO - DIZ:0
+2023-04-09 00:20:56,536 - deep_learning - INFO - DIF:0
+2023-04-09 00:22:41,765 - deep_learning - INFO - PVT:0
+2023-04-09 00:24:26,979 - deep_learning - INFO - PVT6:0
+2023-04-09 00:26:12,299 - deep_learning - INFO - PVT12:0
+2023-04-09 00:27:57,940 - deep_learning - INFO - TRIX5:0
+2023-04-09 00:29:42,145 - deep_learning - INFO - TRIX10:0
+2023-04-09 00:31:27,024 - deep_learning - INFO - MA10RegressCoeff12:0
+2023-04-09 00:33:11,392 - deep_learning - INFO - MA10RegressCoeff6:0
+2023-04-09 00:34:55,740 - deep_learning - INFO - PLRC6:0
+2023-04-09 00:36:40,421 - deep_learning - INFO - PLRC12:0
+2023-04-09 00:38:25,028 - deep_learning - INFO - APBMA:0
+2023-04-09 00:40:10,143 - deep_learning - INFO - BBIC:0
+2023-04-09 00:41:57,754 - deep_learning - INFO - MA10Close:0
+2023-04-09 00:43:45,542 - deep_learning - INFO - BearPower:0
+2023-04-09 00:45:30,343 - deep_learning - INFO - BullPower:0
+2023-04-09 00:47:15,308 - deep_learning - INFO - RC12:0
+2023-04-09 00:49:00,167 - deep_learning - INFO - RC24:0
+2023-04-09 00:50:45,025 - deep_learning - INFO - REVS60:0
+2023-04-09 00:52:29,750 - deep_learning - INFO - REVS120:0
+2023-04-09 00:54:14,505 - deep_learning - INFO - REVS250:0
+2023-04-09 00:55:36,961 - deep_learning - ERROR - 缺失值数大于20%，剔除该因子:REVS750
+2023-04-09 00:55:59,749 - deep_learning - INFO - REVS5m20:0
+2023-04-09 00:57:44,897 - deep_learning - INFO - REVS5m60:0
+2023-04-09 00:59:31,242 - deep_learning - INFO - REVS5Indu1:0
+2023-04-09 01:01:17,084 - deep_learning - INFO - REVS20Indu1:0
+2023-04-09 01:03:01,884 - deep_learning - INFO - Price1M:0
+2023-04-09 01:04:47,598 - deep_learning - INFO - Price3M:0
+2023-04-09 01:06:33,190 - deep_learning - INFO - Price1Y:0
+2023-04-09 01:08:18,215 - deep_learning - INFO - Rank1M:0
+2023-04-09 01:10:03,040 - deep_learning - INFO - PEHist20:0
+2023-04-09 01:11:48,056 - deep_learning - INFO - PEHist60:0
+2023-04-09 01:13:33,287 - deep_learning - INFO - PEHist120:0
+2023-04-09 01:15:18,519 - deep_learning - INFO - PEHist250:0
+2023-04-09 01:17:03,083 - deep_learning - INFO - RSTR504:0
+2023-04-09 01:18:29,394 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-09 01:18:34,440 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-09 01:18:39,998 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-09 01:18:45,876 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-09 01:18:52,578 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-09 01:19:04,805 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-09 01:19:15,999 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-09 01:19:25,987 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-09 01:19:36,894 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-09 01:19:55,094 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-09 01:20:52,827 - deep_learning - INFO - success to get volatility_factor_list factor ,shape = (7871399, 45)
+2023-04-09 01:21:18,774 - deep_learning - INFO - CMRA:0
+2023-04-09 01:23:10,987 - deep_learning - INFO - HBETA:0
+2023-04-09 01:24:58,360 - deep_learning - INFO - HSIGMA:0
+2023-04-09 01:26:43,101 - deep_learning - INFO - TOBT:0
+2023-04-09 01:28:27,194 - deep_learning - INFO - Skewness:0
+2023-04-09 01:30:11,795 - deep_learning - INFO - BackwardADJ:0
+2023-04-09 01:31:55,741 - deep_learning - INFO - Variance20:0
+2023-04-09 01:33:39,528 - deep_learning - INFO - Variance60:0
+2023-04-09 01:35:24,014 - deep_learning - INFO - Variance120:0
+2023-04-09 01:37:08,581 - deep_learning - INFO - Kurtosis20:0
+2023-04-09 01:38:53,128 - deep_learning - INFO - Kurtosis60:0
+2023-04-09 01:40:37,465 - deep_learning - INFO - Kurtosis120:0
+2023-04-09 01:42:22,858 - deep_learning - INFO - Alpha20:0
+2023-04-09 01:44:07,228 - deep_learning - INFO - Alpha60:0
+2023-04-09 01:45:51,356 - deep_learning - INFO - Alpha120:0
+2023-04-09 01:47:36,192 - deep_learning - INFO - Beta20:0
+2023-04-09 01:49:20,763 - deep_learning - INFO - Beta60:0
+2023-04-09 01:51:05,178 - deep_learning - INFO - Beta120:0
+2023-04-09 01:52:49,707 - deep_learning - INFO - SharpeRatio20:0
+2023-04-09 01:54:34,215 - deep_learning - INFO - SharpeRatio60:0
+2023-04-09 01:56:18,819 - deep_learning - INFO - SharpeRatio120:0
+2023-04-09 01:58:03,718 - deep_learning - INFO - TreynorRatio20:0
+2023-04-09 01:59:47,748 - deep_learning - INFO - TreynorRatio60:0
+2023-04-09 02:01:32,313 - deep_learning - INFO - TreynorRatio120:0
+2023-04-09 02:03:16,863 - deep_learning - INFO - InformationRatio20:0
+2023-04-09 02:05:01,367 - deep_learning - INFO - InformationRatio60:0
+2023-04-09 02:06:45,807 - deep_learning - INFO - InformationRatio120:0
+2023-04-09 02:08:29,896 - deep_learning - INFO - GainVariance20:0
+2023-04-09 02:10:13,878 - deep_learning - INFO - GainVariance60:0
+2023-04-09 02:11:58,487 - deep_learning - INFO - GainVariance120:0
+2023-04-09 02:13:43,150 - deep_learning - INFO - LossVariance20:0
+2023-04-09 02:15:34,935 - deep_learning - INFO - LossVariance60:0
+2023-04-09 02:17:22,459 - deep_learning - INFO - LossVariance120:0
+2023-04-09 02:19:07,393 - deep_learning - INFO - GainLossVarianceRatio20:0
+2023-04-09 02:20:51,946 - deep_learning - INFO - GainLossVarianceRatio60:0
+2023-04-09 02:22:35,637 - deep_learning - INFO - GainLossVarianceRatio120:0
+2023-04-09 02:24:19,454 - deep_learning - INFO - RealizedVolatility:0
+2023-04-09 02:26:03,747 - deep_learning - INFO - Beta252:0
+2023-04-09 02:27:48,421 - deep_learning - INFO - DASTD:0
+2023-04-09 02:29:32,088 - deep_learning - INFO - CmraCNE5:0
+2023-04-09 02:31:16,367 - deep_learning - INFO - HsigmaCNE5:0
+2023-04-09 02:33:00,857 - deep_learning - INFO - DDNBT:0
+2023-04-09 02:34:45,601 - deep_learning - INFO - DDNCR:0
+2023-04-09 02:36:29,472 - deep_learning - INFO - DDNSR:0
+2023-04-09 02:38:13,465 - deep_learning - INFO - DVRAT:0
+2023-04-09 02:39:39,315 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-09 02:39:44,228 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-09 02:39:49,696 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-09 02:39:55,495 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-09 02:40:02,120 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-09 02:40:11,061 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-09 02:40:22,035 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-09 02:40:31,530 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-09 02:40:41,816 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-09 02:40:56,815 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-09 02:41:10,776 - deep_learning - INFO - success to get turnover_factor_list factor ,shape = (7871399, 13)
+2023-04-09 02:41:36,880 - deep_learning - INFO - DAVOL10:0
+2023-04-09 02:43:32,281 - deep_learning - INFO - DAVOL20:0
+2023-04-09 02:45:18,342 - deep_learning - INFO - DAVOL5:0
+2023-04-09 02:47:01,349 - deep_learning - INFO - VOL10:0
+2023-04-09 02:48:44,835 - deep_learning - INFO - VOL120:0
+2023-04-09 02:50:27,908 - deep_learning - INFO - VOL20:0
+2023-04-09 02:52:10,698 - deep_learning - INFO - VOL240:0
+2023-04-09 02:53:53,500 - deep_learning - INFO - VOL5:0
+2023-04-09 02:55:36,943 - deep_learning - INFO - VOL60:0
+2023-04-09 02:57:20,238 - deep_learning - INFO - Volatility:0
+2023-04-09 02:59:02,572 - deep_learning - INFO - STOM:0
+2023-04-09 03:00:45,387 - deep_learning - INFO - STOQ:0
+2023-04-09 03:02:28,653 - deep_learning - INFO - STOA:0
+2023-04-09 03:03:53,168 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-09 03:03:57,909 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-09 03:04:03,231 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-09 03:04:09,003 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-09 03:04:15,564 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-09 03:04:24,451 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-09 03:04:33,844 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-09 03:04:43,201 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-09 03:04:54,193 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-09 03:05:07,579 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-09 03:05:22,741 - deep_learning - INFO - success to get sentiment_factor_list factor ,shape = (7871399, 44)
+2023-04-09 03:05:23,096 - deep_learning - ERROR - 缺失值数大于20%，剔除该因子:DAREC
+2023-04-09 03:05:23,112 - deep_learning - ERROR - 缺失值数大于20%，剔除该因子:GREC
+2023-04-09 03:05:23,123 - deep_learning - ERROR - 缺失值数大于20%，剔除该因子:REC
+2023-04-09 03:05:47,602 - deep_learning - INFO - MAWVAD:0
+2023-04-09 03:07:41,523 - deep_learning - INFO - PSY:0
+2023-04-09 03:09:25,885 - deep_learning - INFO - RSI:0
+2023-04-09 03:11:10,200 - deep_learning - INFO - WVAD:0
+2023-04-09 03:12:54,766 - deep_learning - INFO - ADTM:0
+2023-04-09 03:14:38,505 - deep_learning - INFO - ATR14:0
+2023-04-09 03:16:22,331 - deep_learning - INFO - ATR6:0
+2023-04-09 03:18:05,628 - deep_learning - INFO - SBM:0
+2023-04-09 03:19:49,387 - deep_learning - INFO - STM:0
+2023-04-09 03:21:33,247 - deep_learning - INFO - OBV:0
+2023-04-09 03:23:16,997 - deep_learning - INFO - OBV6:0
+2023-04-09 03:25:00,795 - deep_learning - INFO - OBV20:0
+2023-04-09 03:26:44,356 - deep_learning - INFO - TVMA20:0
+2023-04-09 03:28:28,469 - deep_learning - INFO - TVMA6:0
+2023-04-09 03:30:12,496 - deep_learning - INFO - TVSTD20:0
+2023-04-09 03:31:55,921 - deep_learning - INFO - TVSTD6:0
+2023-04-09 03:33:39,666 - deep_learning - INFO - VDEA:0
+2023-04-09 03:35:23,278 - deep_learning - INFO - VDIFF:0
+2023-04-09 03:37:07,157 - deep_learning - INFO - VEMA10:0
+2023-04-09 03:38:51,302 - deep_learning - INFO - VEMA12:0
+2023-04-09 03:40:35,369 - deep_learning - INFO - VEMA26:0
+2023-04-09 03:42:18,947 - deep_learning - INFO - VEMA5:0
+2023-04-09 03:44:02,601 - deep_learning - INFO - VMACD:0
+2023-04-09 03:45:46,496 - deep_learning - INFO - VOSC:0
+2023-04-09 03:47:29,825 - deep_learning - INFO - VR:0
+2023-04-09 03:49:13,207 - deep_learning - INFO - VROC12:0
+2023-04-09 03:50:56,971 - deep_learning - INFO - VROC6:0
+2023-04-09 03:52:40,688 - deep_learning - INFO - VSTD10:0
+2023-04-09 03:54:24,028 - deep_learning - INFO - VSTD20:0
+2023-04-09 03:56:07,490 - deep_learning - INFO - KlingerOscillator:0
+2023-04-09 03:57:51,232 - deep_learning - INFO - MoneyFlow20:0
+2023-04-09 03:59:35,287 - deep_learning - INFO - ACD6:0
+2023-04-09 04:01:18,695 - deep_learning - INFO - ACD20:0
+2023-04-09 04:03:02,380 - deep_learning - INFO - AR:0
+2023-04-09 04:04:45,896 - deep_learning - INFO - BR:0
+2023-04-09 04:06:32,703 - deep_learning - INFO - ARBR:0
+2023-04-09 04:08:18,814 - deep_learning - INFO - NVI:0
+2023-04-09 04:10:07,670 - deep_learning - INFO - PVI:0
+2023-04-09 04:11:51,804 - deep_learning - INFO - JDQS20:0
+2023-04-09 04:13:35,696 - deep_learning - INFO - Volumn1M:0
+2023-04-09 04:15:19,289 - deep_learning - INFO - Volumn3M:0
+2023-04-09 04:16:44,347 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-09 04:16:49,207 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-09 04:16:54,695 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-09 04:17:00,574 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-09 04:17:07,286 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-09 04:17:16,210 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-09 04:17:27,105 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-09 04:17:37,062 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-09 04:17:49,433 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-09 04:18:01,700 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-09 04:18:12,832 - deep_learning - INFO - success to get technical_factor_list factor ,shape = (7871399, 47)
+2023-04-09 04:18:39,259 - deep_learning - INFO - DBCD:0
+2023-04-09 04:20:34,325 - deep_learning - INFO - DHILO:0
+2023-04-09 04:22:22,024 - deep_learning - INFO - EMA10:0
+2023-04-09 04:24:05,693 - deep_learning - INFO - EMA120:0
+2023-04-09 04:25:49,469 - deep_learning - INFO - EMA20:0
+2023-04-09 04:27:33,411 - deep_learning - INFO - EMA5:0
+2023-04-09 04:29:17,112 - deep_learning - INFO - EMA60:0
+2023-04-09 04:31:00,535 - deep_learning - INFO - MA10:0
+2023-04-09 04:32:44,029 - deep_learning - INFO - MA120:0
+2023-04-09 04:34:27,786 - deep_learning - INFO - MA20:0
+2023-04-09 04:36:11,524 - deep_learning - INFO - MA5:0
+2023-04-09 04:37:55,052 - deep_learning - INFO - MA60:0
+2023-04-09 04:39:39,042 - deep_learning - INFO - MFI:0
+2023-04-09 04:41:23,107 - deep_learning - INFO - ILLIQUIDITY:0
+2023-04-09 04:43:07,135 - deep_learning - INFO - MACD:0
+2023-04-09 04:44:50,549 - deep_learning - INFO - BollDown:0
+2023-04-09 04:46:34,390 - deep_learning - INFO - BollUp:0
+2023-04-09 04:48:18,451 - deep_learning - INFO - KDJ_K:0
+2023-04-09 04:50:02,642 - deep_learning - INFO - KDJ_D:0
+2023-04-09 04:51:46,303 - deep_learning - INFO - KDJ_J:0
+2023-04-09 04:53:30,338 - deep_learning - INFO - UpRVI:0
+2023-04-09 04:55:13,942 - deep_learning - INFO - DownRVI:0
+2023-04-09 04:56:57,725 - deep_learning - INFO - RVI:0
+2023-04-09 04:58:41,548 - deep_learning - INFO - ASI:0
+2023-04-09 05:00:25,132 - deep_learning - INFO - ChaikinOscillator:0
+2023-04-09 05:02:08,981 - deep_learning - INFO - ChaikinVolatility:0
+2023-04-09 05:03:52,400 - deep_learning - INFO - EMV14:0
+2023-04-09 05:05:36,874 - deep_learning - INFO - EMV6:0
+2023-04-09 05:07:20,770 - deep_learning - INFO - plusDI:0
+2023-04-09 05:09:04,702 - deep_learning - INFO - minusDI:0
+2023-04-09 05:10:48,503 - deep_learning - INFO - ADX:0
+2023-04-09 05:12:32,146 - deep_learning - INFO - ADXR:0
+2023-04-09 05:14:17,281 - deep_learning - INFO - MTM:0
+2023-04-09 05:16:01,139 - deep_learning - INFO - MTMMA:0
+2023-04-09 05:17:44,367 - deep_learning - INFO - UOS:0
+2023-04-09 05:19:28,348 - deep_learning - INFO - SwingIndex:0
+2023-04-09 05:21:12,364 - deep_learning - INFO - Ulcer10:0
+2023-04-09 05:23:01,635 - deep_learning - INFO - Ulcer5:0
+2023-04-09 05:24:51,336 - deep_learning - INFO - Hurst:0
+2023-04-09 05:26:43,442 - deep_learning - INFO - EMA12:0
+2023-04-09 05:28:27,116 - deep_learning - INFO - EMA26:0
+2023-04-09 05:30:11,369 - deep_learning - INFO - BBI:0
+2023-04-09 05:31:54,603 - deep_learning - INFO - TEMA10:0
+2023-04-09 05:33:37,800 - deep_learning - INFO - TEMA5:0
+2023-04-09 05:35:21,585 - deep_learning - INFO - CR20:0
+2023-04-09 05:37:05,146 - deep_learning - INFO - MassIndex:0
+2023-04-09 05:38:48,571 - deep_learning - INFO - Elder:0
+2023-04-09 05:40:13,443 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-09 05:40:18,233 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-09 05:40:23,669 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-09 05:40:29,514 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-09 05:40:36,165 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-09 05:40:45,066 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-09 05:40:58,076 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-09 05:41:07,739 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-09 05:41:18,010 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-09 05:41:32,378 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-09 05:42:04,218 - deep_learning - INFO - success to get expectation_factor_list factor ,shape = (7871399, 48)
+2023-04-09 05:42:29,249 - deep_learning - INFO - FY12P:0
+2023-04-09 05:44:24,790 - deep_learning - INFO - DAREV:0
+2023-04-09 05:46:14,889 - deep_learning - INFO - GREV:0
+2023-04-09 05:47:58,782 - deep_learning - INFO - SFY12P:0
+2023-04-09 05:49:42,624 - deep_learning - INFO - DASREV:0
+2023-04-09 05:51:26,500 - deep_learning - INFO - GSREV:0
+2023-04-09 05:53:09,962 - deep_learning - INFO - s_west_netprofit_ftm_chg_1m:0
+2023-04-09 05:54:53,251 - deep_learning - INFO - s_west_netprofit_ftm_chg_3m:0
+2023-04-09 05:56:36,922 - deep_learning - INFO - s_west_netprofit_ftm_chg_6m:0
+2023-04-09 05:58:21,189 - deep_learning - INFO - s_west_eps_ftm_chg_1m:0
+2023-04-09 06:00:05,257 - deep_learning - INFO - s_west_eps_ftm_chg_3m:0
+2023-04-09 06:01:49,322 - deep_learning - INFO - s_west_eps_ftm_chg_6m:0
+2023-04-09 06:03:34,141 - deep_learning - INFO - S_WEST_SALES_FTM_CHG_1M:0
+2023-04-09 06:05:18,486 - deep_learning - INFO - s_west_sales_ftm_chg_3m:0
+2023-04-09 06:07:02,219 - deep_learning - INFO - s_west_sales_ftm_chg_6m:0
+2023-04-09 06:08:45,785 - deep_learning - INFO - s_west_netprofit_fy1_chg_1m:0
+2023-04-09 06:10:29,630 - deep_learning - INFO - s_west_netprofit_fy1_chg_3m:0
+2023-04-09 06:12:13,561 - deep_learning - INFO - s_west_netprofit_fy1_chg_6m:0
+2023-04-09 06:13:57,831 - deep_learning - INFO - s_west_eps_fy1_chg_1m:0
+2023-04-09 06:15:41,774 - deep_learning - INFO - s_west_eps_fy1_chg_3m:0
+2023-04-09 06:17:25,967 - deep_learning - INFO - s_west_eps_fy1_chg_6m:0
+2023-04-09 06:19:10,108 - deep_learning - INFO - S_WEST_SALES_FY1_CHG_1M:0
+2023-04-09 06:20:53,929 - deep_learning - INFO - s_west_sales_fy1_chg_3m:0
+2023-04-09 06:22:37,497 - deep_learning - INFO - s_west_sales_fy1_chg_6m:0
+2023-04-09 06:24:21,391 - deep_learning - INFO - s_west_netprofit_ftm_1m:0
+2023-04-09 06:26:05,114 - deep_learning - INFO - s_west_netprofit_ftm_3m:0
+2023-04-09 06:27:48,979 - deep_learning - INFO - s_west_netprofit_ftm_6m:0
+2023-04-09 06:29:36,183 - deep_learning - INFO - s_west_eps_ftm_1m:0
+2023-04-09 06:31:22,734 - deep_learning - INFO - s_west_eps_ftm_3m:0
+2023-04-09 06:33:15,683 - deep_learning - INFO - s_west_eps_ftm_6m:0
+2023-04-09 06:35:00,168 - deep_learning - INFO - s_west_sales_ftm_1m:0
+2023-04-09 06:36:43,776 - deep_learning - INFO - s_west_sales_ftm_3m:0
+2023-04-09 06:38:27,142 - deep_learning - INFO - s_west_netprofit_fy1_1m:0
+2023-04-09 06:40:11,029 - deep_learning - INFO - s_west_netprofit_fy1_3m:0
+2023-04-09 06:41:54,978 - deep_learning - INFO - s_west_netprofit_fy1_6m:0
+2023-04-09 06:43:38,886 - deep_learning - INFO - s_west_eps_fy1_1m:0
+2023-04-09 06:45:22,258 - deep_learning - INFO - s_west_eps_fy1_3m:0
+2023-04-09 06:47:05,807 - deep_learning - INFO - s_west_eps_fy1_6m:0
+2023-04-09 06:48:49,588 - deep_learning - INFO - s_west_sales_fy1_1m:0
+2023-04-09 06:50:33,777 - deep_learning - INFO - s_west_sales_fy1_3m:0
+2023-04-09 06:52:17,464 - deep_learning - INFO - s_west_sales_fy1_6m:0
+2023-04-09 06:54:00,947 - deep_learning - INFO - s_west_eps_fygrowth:0
+2023-04-09 06:55:45,062 - deep_learning - INFO - s_west_netprofitmaxmin_fy1:0
+2023-04-09 06:57:28,932 - deep_learning - INFO - s_west_epsmaxmin_fy1:0
+2023-04-09 06:59:12,383 - deep_learning - INFO - s_west_salesmaxmin_fy1:0
+2023-04-09 07:00:55,817 - deep_learning - INFO - s_west_stdnetprofit_fy1:0
+2023-04-09 07:02:39,957 - deep_learning - INFO - s_west_stdeps_fy1:0
+2023-04-09 07:04:24,086 - deep_learning - INFO - s_west_stdsales_fy1:0
+2023-04-09 07:05:49,008 - deep_learning - INFO -  success to get factors_2013.parquet
+2023-04-09 07:05:53,904 - deep_learning - INFO -  success to get factors_2014.parquet
+2023-04-09 07:05:59,410 - deep_learning - INFO -  success to get factors_2015.parquet
+2023-04-09 07:06:05,343 - deep_learning - INFO -  success to get factors_2016.parquet
+2023-04-09 07:06:12,035 - deep_learning - INFO -  success to get factors_2017.parquet
+2023-04-09 07:06:21,174 - deep_learning - INFO -  success to get factors_2018.parquet
+2023-04-09 07:06:33,095 - deep_learning - INFO -  success to get factors_2019.parquet
+2023-04-09 07:06:44,132 - deep_learning - INFO -  success to get factors_2020.parquet
+2023-04-09 07:06:54,271 - deep_learning - INFO -  success to get factors_2021.parquet
+2023-04-09 07:07:08,149 - deep_learning - INFO -  success to get factors_2022.parquet
+2023-04-09 07:07:41,089 - deep_learning - INFO - success to get moneyflow_factor_list factor ,shape = (7871399, 53)
+2023-04-09 07:08:06,939 - deep_learning - INFO - NET_INFLOW_RATE_VOLUME:0
+2023-04-09 07:10:01,290 - deep_learning - INFO - S_MFD_INFLOW_OPENVOLUME:0
+2023-04-09 07:11:55,359 - deep_learning - INFO - OPEN_NET_INFLOW_RATE_VOLUME:0
+2023-04-09 07:13:39,716 - deep_learning - INFO - S_MFD_INFLOW_CLOSEVOLUME:0
+2023-04-09 07:15:23,828 - deep_learning - INFO - CLOSE_NET_INFLOW_RATE_VOLUME:0
+2023-04-09 07:17:07,759 - deep_learning - INFO - S_MFD_INFLOW:0
+2023-04-09 07:18:51,750 - deep_learning - INFO - NET_INFLOW_RATE_VALUE:0
+2023-04-09 07:20:35,903 - deep_learning - INFO - S_MFD_INFLOW_OPEN:0
+2023-04-09 07:22:20,066 - deep_learning - INFO - OPEN_NET_INFLOW_RATE_VALUE:0
+2023-04-09 07:24:04,218 - deep_learning - INFO - S_MFD_INFLOW_CLOSE:0
+2023-04-09 07:25:48,392 - deep_learning - INFO - CLOSE_NET_INFLOW_RATE_VALUE:0
+2023-04-09 07:27:09,767 - deep_learning - ERROR - 缺失值数大于20%，剔除该因子:TOT_VOLUME_BID
+2023-04-09 07:27:09,778 - deep_learning - ERROR - 缺失值数大于20%，剔除该因子:TOT_VOLUME_ASK
+2023-04-09 07:27:32,570 - deep_learning - INFO - MONEYFLOW_PCT_VOLUME:0
+2023-04-09 07:29:16,979 - deep_learning - INFO - OPEN_MONEYFLOW_PCT_VOLUME:0
+2023-04-09 07:31:01,293 - deep_learning - INFO - CLOSE_MONEYFLOW_PCT_VOLUME:0
+2023-04-09 07:32:45,749 - deep_learning - INFO - MONEYFLOW_PCT_VALUE:0
+2023-04-09 07:34:30,361 - deep_learning - INFO - OPEN_MONEYFLOW_PCT_VALUE:0
+2023-04-09 07:36:14,592 - deep_learning - INFO - CLOSE_MONEYFLOW_PCT_VALUE:0
+2023-04-09 07:37:58,593 - deep_learning - INFO - S_MFD_INFLOWVOLUME_LARGE_ORDER:0
+2023-04-09 07:39:42,720 - deep_learning - INFO - NET_INFLOW_RATE_VOLUME_L:0
+2023-04-09 07:41:27,482 - deep_learning - INFO - S_MFD_INFLOW_LARGE_ORDER:0
+2023-04-09 07:43:11,727 - deep_learning - INFO - NET_INFLOW_RATE_VALUE_L:0
+2023-04-09 07:44:57,054 - deep_learning - INFO - MONEYFLOW_PCT_VOLUME_L:0
+2023-04-09 07:46:41,407 - deep_learning - INFO - MONEYFLOW_PCT_VALUE_L:0
+2023-04-09 07:48:25,718 - deep_learning - INFO - S_MFD_INFLOW_OPENVOLUME_L:0
+2023-04-09 07:50:10,023 - deep_learning - INFO - OPEN_NET_INFLOW_RATE_VOLUME_L:0
+2023-04-09 07:51:54,537 - deep_learning - INFO - S_MFD_INFLOW_OPEN_LARGE_ORDER:0
+2023-04-09 07:53:38,772 - deep_learning - INFO - OPEN_NET_INFLOW_RATE_VALUE_L:0
+2023-04-09 07:55:23,461 - deep_learning - INFO - OPEN_MONEYFLOW_PCT_VOLUME_L:0
+2023-04-09 07:57:07,779 - deep_learning - INFO - OPEN_MONEYFLOW_PCT_VALUE_L:0
+2023-04-09 07:58:51,912 - deep_learning - INFO - S_MFD_INFLOW_CLOSEVOLUME_L:0
+2023-04-09 08:00:36,459 - deep_learning - INFO - CLOSE_NET_INFLOW_RATE_VOLUME_L:0
+2023-04-09 08:02:21,129 - deep_learning - INFO - S_MFD_INFLOW_CLOSE_LARGE_ORDER:0
+2023-04-09 08:04:05,832 - deep_learning - INFO - CLOSE_NET_INFLOW_RATE_VALU_L:0
+2023-04-09 08:05:49,943 - deep_learning - INFO - CLOSE_MONEYFLOW_PCT_VOLUME_L:0
+2023-04-09 08:07:37,249 - deep_learning - INFO - CLOSE_MONEYFLOW_PCT_VALUE_L:0
+2023-04-09 08:09:30,218 - deep_learning - INFO - BUY_VALUE_EXLARGE_ORDER_ACT:0
+2023-04-09 08:11:23,678 - deep_learning - INFO - SELL_VALUE_EXLARGE_ORDER_ACT:0
+2023-04-09 08:13:07,507 - deep_learning - INFO - BUY_VALUE_LARGE_ORDER_ACT:0
+2023-04-09 08:14:52,203 - deep_learning - INFO - SELL_VALUE_LARGE_ORDER_ACT:0
+2023-04-09 08:16:36,593 - deep_learning - INFO - BUY_VALUE_MED_ORDER_ACT:0
+2023-04-09 08:18:20,950 - deep_learning - INFO - SELL_VALUE_MED_ORDER_ACT:0
+2023-04-09 08:20:05,520 - deep_learning - INFO - BUY_VALUE_SMALL_ORDER_ACT:0
+2023-04-09 08:21:49,439 - deep_learning - INFO - SELL_VALUE_SMALL_ORDER_ACT:0
+2023-04-09 08:23:33,966 - deep_learning - INFO - BUY_VOLUME_EXLARGE_ORDER_ACT:0
+2023-04-09 08:25:18,196 - deep_learning - INFO - SELL_VOLUME_EXLARGE_ORDER_ACT:0
+2023-04-09 08:27:02,385 - deep_learning - INFO - BUY_VOLUME_LARGE_ORDER_ACT:0
+2023-04-09 08:28:46,712 - deep_learning - INFO - SELL_VOLUME_LARGE_ORDER_ACT:0
+2023-04-09 08:30:31,427 - deep_learning - INFO - BUY_VOLUME_MED_ORDER_ACT:0
+2023-04-09 08:32:15,749 - deep_learning - INFO - SELL_VOLUME_MED_ORDER_ACT:0
+2023-04-09 08:33:59,709 - deep_learning - INFO - BUY_VOLUME_SMALL_ORDER_ACT:0
+2023-04-09 08:35:43,860 - deep_learning - INFO - SELL_VOLUME_SMALL_ORDER_ACT:0

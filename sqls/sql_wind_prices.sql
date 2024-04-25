@@ -1,2 +1,1 @@
-select cast(TRADE_DT as signed) as Date, LEFT(S_INFO_WINDCODE, 6) as Ticker, S_DQ_CLOSE as close,S_DQ_PRECLOSE as preclose,S_DQ_OPEN as open,S_DQ_HIGH as high,S_DQ_LOW as low,S_DQ_VOLUME*100 as volume,S_DQ_AMOUNT/10 as amount,S_DQ_AVGPRICE as vwap,S_DQ_PCTCHANGE/100 as pct_chg,S_DQ_LIMIT as high_limit,S_DQ_STOPPING as low_limit,S_DQ_ADJFACTOR as fq,
-S_DQ_TRADESTATUSCODE as trading_status from wind.ASHAREEODPRICES;
+select cast(TRADE_DT as signed) as Date, S_INFO_WINDCODE as Ticker, S_DQ_ADJCLOSE as close from wind.ASHAREEODPRICES where TRADE_DT>="{0}" and TRADE_DT<="{1}";

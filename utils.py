@@ -1,4 +1,5 @@
 import datetime
+import math
 import os
 import statsmodels.api as sm
 
@@ -7,7 +8,7 @@ import pandas as pd
 import numpy as np
 import pymysql
 
-from conf.base import MYSQL_USER, MYSQL_PASSWORD, MYSQL_HOST, MYSQL_DATABASE, MYSQL_PORT, sqls_path
+from conf.base import MYSQL_USER, MYSQL_PASSWORD, MYSQL_HOST, MYSQL_DATABASE, MYSQL_PORT, sqls_path, logger
 
 
 class MysqlClient(object):
@@ -127,7 +128,7 @@ def read_sql_file(sql_file_name: str) -> str:
 
 def get_trading_days(start_dt, end_dt):
 	# get trade_days
-	date_all = pd.read_csv('..\local_mktTradeDays.csv')
+	date_all = pd.read_csv(f'C://Users//LYQ//PycharmProjects//deep_learning_for_ashare//local_mktTradeDays.csv')
 	date_list = list(date_all['date'])
 	date_list = [str(i) for i in date_list if i >= int(start_dt) and i <= int(end_dt)]
 	return date_list
@@ -399,27 +400,35 @@ def standardize_df(factor_data, ty=2):
 '''
 
 
-# def replace_nan_indu(self, factor_data, stockList, industry_code, date):
-# 	i_Constituent_Stocks = {}
-# 	if isinstance(factor_data, pd.DataFrame):
-# 		data_temp = pd.DataFrame(index=industry_code, columns=factor_data.columns)
-# 		for i in industry_code:
-# 			temp = get_industry_stocks(i, date)
-# 			i_Constituent_Stocks[i] = list(set(temp).intersection(set(stockList)))
-# 			data_temp.loc[i] = np.mean(factor_data.loc[i_Constituent_Stocks[i], :])
-# 		for factor in data_temp.columns:
-# 			# 行业缺失值用所有行业平均值代替
-# 			null_industry = list(data_temp.loc[pd.isnull(data_temp[factor]), factor].keys())
-# 			for i in null_industry:
-# 				data_temp.loc[i, factor] = np.mean(data_temp[factor])
-# 			null_stock = list(factor_data.loc[pd.isnull(factor_data[factor]), factor].keys())
-# 			for i in null_stock:
-# 				industry = get_key(i_Constituent_Stocks, i)
-# 				if industry:
-# 					factor_data.loc[i, factor] = data_temp.loc[industry[0], factor]
-# 				else:
-# 					factor_data.loc[i, factor] = np.mean(factor_data[factor])
-# 	return factor_data
+def fill_missing_values(df, factor_name, type=1):
+	if type == 1:
+		# 用每只股票各自前后10天的数据均值填充,开始日期的值用第一个有效值填充
+		rolling_mean = df.groupby('Ticker')[factor_name].rolling(window=21, center=True,
+		                                                         min_periods=1).mean().reset_index()
+		rolling_mean[factor_name] = rolling_mean.groupby('Ticker')[factor_name].fillna(method='bfill')
+		rolling_mean[factor_name] = rolling_mean.groupby('Ticker')[factor_name].fillna(method='ffill')
+		df=df.sort_values(by=['Ticker', 'Date'])
+		df[factor_name].fillna(rolling_mean[factor_name], inplace=True)
+		
+	elif type == 2:
+		# 根据该股票前一个数据填充
+		df[factor_name] = df.groupby('Ticker')[factor_name].fillna(method='ffill')
+		df = df.fillna(0)
+	
+	elif type == 3:
+		# 用该股票当天同行业的均值填充空值
+		grouped = df.groupby(['Date', 'IndustryCode']).transform(lambda x: x.fillna(x.mean()))
+		df[factor_name].fillna(grouped[factor_name], inplace=True)
+	elif type == 4:
+		# 插值填充
+		df[factor_name] = df[factor_name].interpolate(method='linear')
+		df[factor_name] = df.groupby('Ticker')[factor_name].fillna(method='bfill')
+	df = df.fillna(0)
+	df = df.set_index(['Date', 'Ticker']).sort_index()
+	num = df[factor_name].isna().sum()
+	logger.info(f'{factor_name}:{num}')
+	
+	return df
 
 
 '''
@@ -432,24 +441,22 @@ factor：以股票code为index，因子值为value的Series,
 '''
 
 
-
-def neutralize_df(self, factor_df, exclude=None, mkt_cap=False, industry=False):
-	stocks = factor_df.index
+def neutralize_df(factor_df, factor_name, mkt_cap_col=None, industry_col=None):
+	factor_df=factor_df.set_index(['Date','Ticker'])
 	result = pd.DataFrame()
-	for factor in factor_df.columns:
-		if factor == exclude:
-			result[factor] = factor_df[factor]
+	y = factor_df[factor_name]
+	if mkt_cap_col is not None:
+		mkt_cap = factor_df[mkt_cap_col]
+		if industry_col is not None:
+			dummy_industry = pd.get_dummies(factor_df[industry_col])
+			x = pd.concat([mkt_cap.apply(lambda x: math.log(x)), dummy_industry], axis=1)
 		else:
-			y = factor_df[factor]
-			if type(mkt_cap) == pd.Series:
-				# LnMktCap = mkt_cap.apply(lambda x:math.log(x))
-				if industry:  # 行业、市值
-					dummy_industry = self.get_industry_exposure(stocks)
-					x = pd.concat([mkt_cap, dummy_industry.T], axis=1)
-				else:  # 仅市值
-					x = mkt_cap
-			elif industry:  # 仅行业
-				dummy_industry = self.get_industry_exposure(stocks)
-				x = dummy_industry.T
-			result[factor] = sm.OLS(y.astype(float), x.astype(float)).fit().resid
-	return result
+			x = mkt_cap.apply(lambda x: math.log(x))
+	elif industry_col is not None:
+		dummy_industry = pd.get_dummies(factor_df[industry_col])
+		x = dummy_industry
+	else:
+		raise ValueError("At least one of 'mkt_cap_col' and 'industry_col' should be provided.")
+	result[factor_name] = sm.OLS(y.astype(float), x.astype(float)).fit().resid
+	result.reset_index(inplace=True)
+	return result[factor_name]

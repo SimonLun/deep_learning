@@ -1,4 +1,5 @@
 import datetime
+import os
 import warnings
 from utils import format_date
 from conf.base import logger
@@ -51,3 +52,39 @@ def get_all_factors(start_date, end_date):
 	logger.info(f"get all factors from mysql database,shape = {factors_all.shape}")
 	
 	return factors_all
+
+def dump_factors_to_parquet():
+	for i in range(10):
+		factors = get_all_factors(para['start_date_list'][i], para['end_date_list'][i])
+		factors.to_parquet(os.path.join(para['parquet_path'], f"factors_{para['start_date_list'][i][:4]}.parquet"))
+
+
+def read_parquet(kind=None):
+	df_all = pd.DataFrame()
+	for i in range(10):
+		year = para['start_date_list'][i][:4]
+		df = pd.read_parquet(os.path.join(para['parquet_path'], f"factors_{year}.parquet"))
+		logger.info(f" success to get factors_{year}.parquet")
+		df.set_index(['Ticker', 'Date'], inplace=True)
+		if kind:
+			df = df[para[kind]]
+		df = df.astype('float32')
+		df_all = pd.concat([df_all, df], axis=0, ignore_index=False)
+	logger.info(f"success to get {kind} factor ,shape = {df_all.shape}")
+	return df_all
+
+		
+def get_indu_code_from_sql(start_date, end_date):
+	wind_conn = WindSqlEngine(start_date, end_date)
+	stock_indu = wind_conn.get_industry_code()
+	return stock_indu
+
+def get_stock_price_from_sql(start_date,end_date):
+	wind_conn = WindSqlEngine(start_date, end_date)
+	stock_price = wind_conn.get_stock_price()
+	return stock_price
+
+def get_stock_mktcap_from_sql(start_date,end_date):
+	wind_conn = WindSqlEngine(start_date, end_date)
+	stock_mktcap = wind_conn.get_stock_mktcap()
+	return stock_mktcap
